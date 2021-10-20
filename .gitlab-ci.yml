@@ -1,0 +1,26 @@
+stages:
+  - build
+  - deploy
+
+build_image:
+  stage: build
+  tags:
+    - shell-runner
+  only:
+    - /^v.*$/
+  script:
+    - docker build -t ${CI_REGISTRY_IMAGE}:${CI_COMMIT_TAG} .
+    - docker login -u gitlab-ci-token -p ${CI_JOB_TOKEN} ${CI_REGISTRY}
+    - docker push ${CI_REGISTRY_IMAGE}:${CI_COMMIT_TAG}
+
+deploy-prestaging:
+  stage: deploy
+  only:
+    - /^v.*$/
+  tags:
+    - docker-runner
+  image: cdrx/rancher-gitlab-deploy
+  environment:
+    name: prestaging
+  script:
+    - upgrade --stack ${CI_PROJECT_NAME} --service app --new-image ${CI_REGISTRY_IMAGE}:${CI_COMMIT_TAG}  

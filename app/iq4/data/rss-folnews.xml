@@ -1,0 +1,421 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:media="http://search.yahoo.com/mrss/" version="2.0"
+	 xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>
+			FOCUS Online</title>
+		<link>https://rss.focus.de/</link>
+		<description>
+			FOCUS Online - minutenaktuelle Nachrichten und Service-Informationen.</description>
+		<image>
+			<url>https://p5.focus.de/fol/pics/fol/logo_125x40.png</url>
+			<title>
+				FOCUS Online</title>
+			<link>
+				https://rss.focus.de/</link>
+		</image>
+		<lastBuildDate>Wed, 10 Mar 2021 16:48:39 +0100</lastBuildDate>
+		<atom:link href="https://rss.focus.de/" rel="self" type="application/rss+xml" />
+		<item>
+						<title>Analyse zum Digitalen Wahlkampf - Hartes Ringen um Aufmerksamkeit - doch der Amtsträger hat unschlagbaren Vorteil</title>
+						<link>https://www.focus.de/politik/deutschland/analyse-zum-digitalen-wahlkampf-hartes-ringen-um-aufmerksamkeit-doch-der-amtstraeger-hat-unschlagbaren-vorteil_id_13068540.html</link>
+						<description>
+							Die Corona-Pandemie hat auch die Parteien im Kampf um Wähler vor neue Herausforderungen gestellt. Statt Bierzeltreden und Marktplatzbühne: Youtube und Instagram. Soziale Medien bieten zwar neue Möglichkeiten, sind aber auch schwer zu steuern. Faire Ausgangsbedingungen? Vor- und Nachteile im Wahlkampf sind klar verteilt.Von FOCUS-Online-Korrespondent Ulrich Reitz</description>
+						<category domain="">Deutschland</category>
+						<pubDate>
+							Wed, 10 Mar 2021 16:48:39 +0100</pubDate>
+						<guid isPermaLink="false">aid_13068540</guid>
+						<dc:creator>Von FOCUS-Online-Korrespondent Ulrich Reitz</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13068679/urn-newsml-dpa-com-20090101-210217-99-482660-large-4-3.jpg?im=Crop%3D%280%2C33%2C800%2C533%29%3BResize%3D%28120%29&amp;hash=2df49e53042835eb00d0d542654e2538965c3ae9e1190274f579689a4253a211" />Die Corona-Pandemie hat auch die Parteien im Kampf um Wähler vor neue Herausforderungen gestellt. Statt Bierzeltreden und Marktplatzbühne: Youtube und Instagram. Soziale Medien bieten zwar neue Möglichkeiten, sind aber auch schwer zu steuern. Faire Ausgangsbedingungen? Vor- und Nachteile im Wahlkampf sind klar verteilt.Von FOCUS-Online-Korrespondent Ulrich Reitz]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Die Corona-Pandemie hat auch die Parteien im Kampf um Wähler vor neue Herausforderungen gestellt. Statt Bierzeltreden und Marktplatzbühne: Youtube und Instagram. Soziale Medien bieten zwar neue Möglichkeiten, sind aber auch schwer zu steuern. Faire Ausgangsbedingungen? Vor- und Nachteile im Wahlkampf sind klar verteilt.Von FOCUS-Online-Korrespondent Ulrich Reitz]]></media:description>
+						<media:title>Analyse zum Digitalen Wahlkampf - Hartes Ringen um Aufmerksamkeit - doch der Amtsträger hat unschlagbaren Vorteil</media:title>
+						<media:player url="https://www.focus.de/politik/deutschland/analyse-zum-digitalen-wahlkampf-hartes-ringen-um-aufmerksamkeit-doch-der-amtstraeger-hat-unschlagbaren-vorteil_id_13068540.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Zentrum für Chip-Design - Apple investiert eine Milliarde Euro in den High-Tech-Standort München</title>
+						<link>https://www.focus.de/finanzen/boerse/zentrum-fuer-chip-design-apple-investiert-eine-milliarde-euro-in-den-high-tech-standort-muenchen_id_13068311.html</link>
+						<description>
+							Eine Milliarde Euro will Apple in Deutschland in den kommenden Jahren investieren. Der Münchner High-Tech-Markt befindet sich im Aufschwung, denn Apple ist längst nicht mehr der einzige namenhafte Technologie-Konzern, welcher in der Landeshauptstadt vertreten ist.</description>
+						<category domain="">Börse</category>
+						<pubDate>
+							Wed, 10 Mar 2021 16:47:55 +0100</pubDate>
+						<guid isPermaLink="false">aid_13068311</guid>
+						<dc:creator>dpa</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13068996/2021-03-10-16-38-14-apple-investiert-mit-neuem-standort-in-muenchen-ueber-eine-milliarde-euro-in-deuts.jpg?im=Crop%3D%2850%2C0%2C864%2C576%29%3BResize%3D%28120%29&amp;hash=23ce3ccc29a2aff398ef637d9894fe96e1d9f1dac777085f1f12738017e23933" />Eine Milliarde Euro will Apple in Deutschland in den kommenden Jahren investieren. Der Münchner High-Tech-Markt befindet sich im Aufschwung, denn Apple ist längst nicht mehr der einzige namenhafte Technologie-Konzern, welcher in der Landeshauptstadt vertreten ist.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Eine Milliarde Euro will Apple in Deutschland in den kommenden Jahren investieren. Der Münchner High-Tech-Markt befindet sich im Aufschwung, denn Apple ist längst nicht mehr der einzige namenhafte Technologie-Konzern, welcher in der Landeshauptstadt vertreten ist.]]></media:description>
+						<media:title>Zentrum für Chip-Design - Apple investiert eine Milliarde Euro in den High-Tech-Standort München</media:title>
+						<media:player url="https://www.focus.de/finanzen/boerse/zentrum-fuer-chip-design-apple-investiert-eine-milliarde-euro-in-den-high-tech-standort-muenchen_id_13068311.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Selbstdemontage vor EU-Zukunftskonferenz - Statt um die Zukunft und gute Konzepte: EU-Elite streitet um Pöstchen und Personen</title>
+						<link>https://www.focus.de/politik/ausland/eu/selbstdemontage-vor-eu-zukunftskonferenz-statt-um-die-zukunft-und-gute-konzepte-eu-elite-streitet-um-poestchen-und-personen_id_13069032.html</link>
+						<description>
+							Nach monatelangem Ringen fiel in Brüssel der Startschuss für eine „Konferenz zur Zukunft Europas“. Nicht um Reformkonzepte hat man sich im Vorfeld bittere Scharmützel geliefert, sondern um die Frage, wer den Vorsitz dieser Konferenz führen soll. Es gibt wahrlich Wichtigeres. Europa offenbart, wie reformbedürftig es ist. Mehr politischer Druck ist dringend benötigt.Von FOCUS-Online-Autor Hans-Jürgen Moritz (Brüssel)</description>
+						<category domain="">EU</category>
+						<pubDate>
+							Wed, 10 Mar 2021 16:47:48 +0100</pubDate>
+						<guid isPermaLink="false">aid_13069032</guid>
+						<dc:creator>Von FOCUS-Online-Autor Hans-Jürgen Moritz (Brüssel)</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13027651/eu-sondergipfel-zur-68516319.jpg?im=Crop%3D%280%2C8%2C3452%2C2301%29%3BResize%3D%28120%29&amp;hash=98fd7748078114524daaf9699187e4d829de41b46d03d7ecb85a9a0c5407799a" />Nach monatelangem Ringen fiel in Brüssel der Startschuss für eine „Konferenz zur Zukunft Europas“. Nicht um Reformkonzepte hat man sich im Vorfeld bittere Scharmützel geliefert, sondern um die Frage, wer den Vorsitz dieser Konferenz führen soll. Es gibt wahrlich Wichtigeres. Europa offenbart, wie reformbedürftig es ist. Mehr politischer Druck ist dringend benötigt.Von FOCUS-Online-Autor Hans-Jürgen Moritz (Brüssel)]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Nach monatelangem Ringen fiel in Brüssel der Startschuss für eine „Konferenz zur Zukunft Europas“. Nicht um Reformkonzepte hat man sich im Vorfeld bittere Scharmützel geliefert, sondern um die Frage, wer den Vorsitz dieser Konferenz führen soll. Es gibt wahrlich Wichtigeres. Europa offenbart, wie reformbedürftig es ist. Mehr politischer Druck ist dringend benötigt.Von FOCUS-Online-Autor Hans-Jürgen Moritz (Brüssel)]]></media:description>
+						<media:title>Selbstdemontage vor EU-Zukunftskonferenz - Statt um die Zukunft und gute Konzepte: EU-Elite streitet um Pöstchen und Personen</media:title>
+						<media:player url="https://www.focus.de/politik/ausland/eu/selbstdemontage-vor-eu-zukunftskonferenz-statt-um-die-zukunft-und-gute-konzepte-eu-elite-streitet-um-poestchen-und-personen_id_13069032.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Bis Impfeffekte deutlich werden - Merkel im Gespräch mit Bürgern: &amp;#034;Noch drei, vier schwere Monate&amp;#034;</title>
+						<link>https://www.focus.de/politik/deutschland/bis-impfeffekte-deutlich-werden-merkel-im-gespraech-mit-buergern-noch-drei-vier-schwere-monate_id_13069049.html</link>
+						<description>
+							Die Corona-Lage in Deutschland wird nach Einschätzung von Kanzlerin Angela Merkel (CDU) noch bis in den Sommer angespannt bleiben. </description>
+						<category domain="">Deutschland</category>
+						<pubDate>
+							Wed, 10 Mar 2021 16:47:21 +0100</pubDate>
+						<guid isPermaLink="false">aid_13069049</guid>
+						<dc:creator>dpa</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_11773316/eilmeldung.png?im=Crop%3D%28130%2C0%2C940%2C627%29%3BResize%3D%28120%29&amp;hash=6b6edeecff92438f6a535adc0f71d990df7d092ff9fd0dce4626ac9621deb126" />Die Corona-Lage in Deutschland wird nach Einschätzung von Kanzlerin Angela Merkel (CDU) noch bis in den Sommer angespannt bleiben. ]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Die Corona-Lage in Deutschland wird nach Einschätzung von Kanzlerin Angela Merkel (CDU) noch bis in den Sommer angespannt bleiben. ]]></media:description>
+						<media:title>Bis Impfeffekte deutlich werden - Merkel im Gespräch mit Bürgern: &#034;Noch drei, vier schwere Monate&#034;</media:title>
+						<media:player url="https://www.focus.de/politik/deutschland/bis-impfeffekte-deutlich-werden-merkel-im-gespraech-mit-buergern-noch-drei-vier-schwere-monate_id_13069049.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Gewinner sind Einzelhändler und Tech-Werte - Billionen für Amerika: Welche Aktien besonders von Bidens Konjunkturpaket profitieren</title>
+						<link>https://www.focus.de/finanzen/boerse/aktien/milliarden-dollar-werden-in-aktien-fliessen-diese-aktien-werden-am-staerksten-vom-neuen-us-konjunkturpaket-profitieren_id_13068420.html</link>
+						<description>
+							Heute Abend wird der US-Kongress ein fast zwei Billionen Dollar schweres Konjunkturpaket beschließen. Jeder US-Amerikaner wird dabei 1400 Dollar erhalten. Geld, das in die Wirtschaft fließt und einigen Konzern deutliche Aktienschübe geben wird.Von Autor Christoph Sackmann</description>
+						<category domain="">Aktien</category>
+						<pubDate>
+							Wed, 10 Mar 2021 16:38:29 +0100</pubDate>
+						<guid isPermaLink="false">aid_13068420</guid>
+						<dc:creator>Von Autor Christoph Sackmann</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_12303013/boersenhaendler.jpg?im=Crop%3D%28151%2C0%2C1297%2C865%29%3BResize%3D%28120%29&amp;hash=d7a47e21bca307969fbe492f0646db1797391b25550216ea607e753a9294deaf" />Heute Abend wird der US-Kongress ein fast zwei Billionen Dollar schweres Konjunkturpaket beschließen. Jeder US-Amerikaner wird dabei 1400 Dollar erhalten. Geld, das in die Wirtschaft fließt und einigen Konzern deutliche Aktienschübe geben wird.Von Autor Christoph Sackmann]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Heute Abend wird der US-Kongress ein fast zwei Billionen Dollar schweres Konjunkturpaket beschließen. Jeder US-Amerikaner wird dabei 1400 Dollar erhalten. Geld, das in die Wirtschaft fließt und einigen Konzern deutliche Aktienschübe geben wird.Von Autor Christoph Sackmann]]></media:description>
+						<media:title>Gewinner sind Einzelhändler und Tech-Werte - Billionen für Amerika: Welche Aktien besonders von Bidens Konjunkturpaket profitieren</media:title>
+						<media:player url="https://www.focus.de/finanzen/boerse/aktien/milliarden-dollar-werden-in-aktien-fliessen-diese-aktien-werden-am-staerksten-vom-neuen-us-konjunkturpaket-profitieren_id_13068420.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Ein Tag mit der Ministerpräsidentin - Die Unverwüstliche: Selbst Krankheit und Shitstorm können Malu Dreyer nicht bremsen</title>
+						<link>https://www.focus.de/politik/deutschland/landtagswahl-in-rheinland-pfalz/ein-tag-mit-der-ministerpraesidentin-malu-dreyer_id_13038109.html</link>
+						<description>
+							Seit acht Jahren ist Malu Dreyer Ministerpräsidentin von Rheinland-Pfalz. Gäbe es eine personenbezogene Direktwahl, wäre sie unschlagbar. Kaum ein Politiker der SPD ist so beliebt wie sie – dabei muss sie gleich an mehreren Fronten kämpfen.Von FOCUS-Online-Redakteurin Laura Schäfer</description>
+						<category domain="">Landtagswahl in Rheinland-Pfalz</category>
+						<pubDate>
+							Wed, 10 Mar 2021 16:22:40 +0100</pubDate>
+						<guid isPermaLink="false">aid_13038109</guid>
+						<dc:creator>Von FOCUS-Online-Redakteurin Laura Schäfer</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13010444/urn-newsml-dpa-com-20090101-210222-99-547543-large-4-3.jpg?im=Crop%3D%280%2C0%2C800%2C533%29%3BResize%3D%28120%29&amp;hash=982cb1c1ffde466fab2a2ddea058cf3106281f5151c30d959486543d8254a853" />Seit acht Jahren ist Malu Dreyer Ministerpräsidentin von Rheinland-Pfalz. Gäbe es eine personenbezogene Direktwahl, wäre sie unschlagbar. Kaum ein Politiker der SPD ist so beliebt wie sie – dabei muss sie gleich an mehreren Fronten kämpfen.Von FOCUS-Online-Redakteurin Laura Schäfer]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Seit acht Jahren ist Malu Dreyer Ministerpräsidentin von Rheinland-Pfalz. Gäbe es eine personenbezogene Direktwahl, wäre sie unschlagbar. Kaum ein Politiker der SPD ist so beliebt wie sie – dabei muss sie gleich an mehreren Fronten kämpfen.Von FOCUS-Online-Redakteurin Laura Schäfer]]></media:description>
+						<media:title>Ein Tag mit der Ministerpräsidentin - Die Unverwüstliche: Selbst Krankheit und Shitstorm können Malu Dreyer nicht bremsen</media:title>
+						<media:player url="https://www.focus.de/politik/deutschland/landtagswahl-in-rheinland-pfalz/ein-tag-mit-der-ministerpraesidentin-malu-dreyer_id_13038109.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Als IOC-Chef wiedergewählt - Thomas Bach bleibt für vier weitere Jahre Olympia-Boss</title>
+						<link>https://www.focus.de/sport/als-ioc-chef-wiedergewaehlt-thomas-bach-bleibt-olympia-boss_id_13068847.html</link>
+						<description>
+							Thomas Bach bleibt für vier weitere Jahre Präsident des Internationalen Olympischen Komitees. Der seit 2013 amtierende 67-Jährige wurde am Mittwoch bei der IOC-Generalversammlung wie erwartet wiedergewählt, er hatte keinen Gegenkandidaten. </description>
+						<category domain="">Sport</category>
+						<pubDate>
+							Wed, 10 Mar 2021 16:14:47 +0100</pubDate>
+						<guid isPermaLink="false">aid_13068847</guid>
+						<dc:creator>dpa</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13068945/imago0047087244h-1-.jpg?im=Crop%3D%280%2C0%2C3464%2C2309%29%3BResize%3D%28120%29&amp;hash=798bbaa841e58ad0e42d468794e5cdbd60aa77aa7b7465ed3865d87a2437e487" />Thomas Bach bleibt für vier weitere Jahre Präsident des Internationalen Olympischen Komitees. Der seit 2013 amtierende 67-Jährige wurde am Mittwoch bei der IOC-Generalversammlung wie erwartet wiedergewählt, er hatte keinen Gegenkandidaten. ]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Thomas Bach bleibt für vier weitere Jahre Präsident des Internationalen Olympischen Komitees. Der seit 2013 amtierende 67-Jährige wurde am Mittwoch bei der IOC-Generalversammlung wie erwartet wiedergewählt, er hatte keinen Gegenkandidaten. ]]></media:description>
+						<media:title>Als IOC-Chef wiedergewählt - Thomas Bach bleibt für vier weitere Jahre Olympia-Boss</media:title>
+						<media:player url="https://www.focus.de/sport/als-ioc-chef-wiedergewaehlt-thomas-bach-bleibt-olympia-boss_id_13068847.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Endstation FC Porto - Juventus-Star steht nach Champions-League-Aus am Pranger: &amp;#034;Ronaldos Versagen&amp;#034;</title>
+						<link>https://www.focus.de/sport/fussball/championsleague/endstation-fc-porto-juventus-star-steht-nach-champions-league-aus-am-pranger-ronaldos-versagen_id_13068660.html</link>
+						<description>
+							Wieder nichts! Auch im dritten Anlauf scheitert Cristiano Ronaldo mit Juventus Turin schon früh in der K.o.-Phase der Champions League. Nach dem unzureichenden 3:2 gegen Porto wird der 36-Jährige heftig kritisiert. Der alleinige Schuldige ist er aber nicht.</description>
+						<category domain="">Champions League</category>
+						<pubDate>
+							Wed, 10 Mar 2021 15:55:20 +0100</pubDate>
+						<guid isPermaLink="false">aid_13068660</guid>
+						<dc:creator>dpa</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13068623/imago1001211260h.jpg?im=Crop%3D%280%2C0%2C3006%2C2004%29%3BResize%3D%28120%29&amp;hash=b32435e6e70e1f401cf7d91d111414841f06610375b832e777ae54ba625d06f7" />Wieder nichts! Auch im dritten Anlauf scheitert Cristiano Ronaldo mit Juventus Turin schon früh in der K.o.-Phase der Champions League. Nach dem unzureichenden 3:2 gegen Porto wird der 36-Jährige heftig kritisiert. Der alleinige Schuldige ist er aber nicht.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Wieder nichts! Auch im dritten Anlauf scheitert Cristiano Ronaldo mit Juventus Turin schon früh in der K.o.-Phase der Champions League. Nach dem unzureichenden 3:2 gegen Porto wird der 36-Jährige heftig kritisiert. Der alleinige Schuldige ist er aber nicht.]]></media:description>
+						<media:title>Endstation FC Porto - Juventus-Star steht nach Champions-League-Aus am Pranger: &#034;Ronaldos Versagen&#034;</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/championsleague/endstation-fc-porto-juventus-star-steht-nach-champions-league-aus-am-pranger-ronaldos-versagen_id_13068660.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Beliebte ZDF-Heimatserie - &amp;#034;Der Bergdoktor&amp;#034;: Hans Sigl verkündet Drehbeginn für Staffel 15 – Fans sind begeistert</title>
+						<link>https://www.focus.de/kultur/kino_tv/beliebte-zdf-heimatserie-der-bergdoktor-hans-sigl-verkuendet-drehbeginn-fuer-staffel-15-fans-sind-begeistert_id_13068731.html</link>
+						<description>
+							&#034;Der Bergdoktor&#034; geht in die nächste Runde. Serienstar Hans Sigl verkündete auf Instagram den Drehbeginn zur 15. Staffel. Die Fans sind begeistert.</description>
+						<category domain="">Kino &amp; TV</category>
+						<pubDate>
+							Wed, 10 Mar 2021 15:54:27 +0100</pubDate>
+						<guid isPermaLink="false">aid_13068731</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13024526/urn-newsml-dpa-com-20090101-210226-99-604552-large-4-3.jpg?im=Crop%3D%280%2C33%2C800%2C533%29%3BResize%3D%28120%29&amp;hash=f6ff49fa285db39bf567c55297758a0c5fea27727e0040901f3fceb4292fc10b" />"Der Bergdoktor" geht in die nächste Runde. Serienstar Hans Sigl verkündete auf Instagram den Drehbeginn zur 15. Staffel. Die Fans sind begeistert.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA["Der Bergdoktor" geht in die nächste Runde. Serienstar Hans Sigl verkündete auf Instagram den Drehbeginn zur 15. Staffel. Die Fans sind begeistert.]]></media:description>
+						<media:title>Beliebte ZDF-Heimatserie - &#034;Der Bergdoktor&#034;: Hans Sigl verkündet Drehbeginn für Staffel 15 – Fans sind begeistert</media:title>
+						<media:player url="https://www.focus.de/kultur/kino_tv/beliebte-zdf-heimatserie-der-bergdoktor-hans-sigl-verkuendet-drehbeginn-fuer-staffel-15-fans-sind-begeistert_id_13068731.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Achtung, Sturmgefahr! - Orkan peitscht auf Deutschland ein: So schützen Sie Haus, Garten und Auto</title>
+						<link>https://www.focus.de/immobilien/achtung-sturmgefahr-orkan-peitscht-auf-deutschland-ein-so-schuetzen-sie-haus-garten-und-auto_id_13068493.html</link>
+						<description>
+							In den nächsten Stunden rollt Sturmtief „Klaus“ über mehrere Bundesländer. Wetterexperten warnen vor schweren Sturmböen, Schauern und Gewittern. Um sich und andere zu schützen, gilt es jetzt entscheidende Maßnahmen zu ergreifen. Wir sagen, wie Sie sich jetzt schützen.</description>
+						<category domain="">Immobilien</category>
+						<pubDate>
+							Wed, 10 Mar 2021 15:49:09 +0100</pubDate>
+						<guid isPermaLink="false">aid_13068493</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[In den nächsten Stunden rollt Sturmtief „Klaus“ über mehrere Bundesländer. Wetterexperten warnen vor schweren Sturmböen, Schauern und Gewittern. Um sich und andere zu schützen, gilt es jetzt entscheidende Maßnahmen zu ergreifen. Wir sagen, wie Sie sich jetzt schützen.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[In den nächsten Stunden rollt Sturmtief „Klaus“ über mehrere Bundesländer. Wetterexperten warnen vor schweren Sturmböen, Schauern und Gewittern. Um sich und andere zu schützen, gilt es jetzt entscheidende Maßnahmen zu ergreifen. Wir sagen, wie Sie sich jetzt schützen.]]></media:description>
+						<media:title>Achtung, Sturmgefahr! - Orkan peitscht auf Deutschland ein: So schützen Sie Haus, Garten und Auto</media:title>
+						<media:player url="https://www.focus.de/immobilien/achtung-sturmgefahr-orkan-peitscht-auf-deutschland-ein-so-schuetzen-sie-haus-garten-und-auto_id_13068493.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Zu Haftstrafen verurteilt - Herzlose Tat: Rentner sucht Hilfe für seine sterbende Frau - und wird ausgeraubt</title>
+						<link>https://www.focus.de/panorama/welt/zu-haftstrafen-verurteilt-herzlose-tat-rentner-sucht-hilfe-fuer-seine-sterbende-frau-und-wird-ausgeraubt_id_13068584.html</link>
+						<description>
+							Als sich der Zustand seiner Frau drastisch verschlechtert, sucht ein 80-jähriger Brite verzweifelt nach jemandem, der helfen könnte. Ein Paar verspricht dem Rentner, den Notarzt zu rufen - doch raubt ihn stattdessen aus.</description>
+						<category domain="">Aus aller Welt</category>
+						<pubDate>
+							Wed, 10 Mar 2021 15:47:32 +0100</pubDate>
+						<guid isPermaLink="false">aid_13068584</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13068604/diebe.png?im=Crop%3D%2890%2C0%2C487%2C325%29%3BResize%3D%28120%29&amp;hash=f41532705599aa715bb43f4ff25cd42467c4f6e95962233b2f6692829a17ab7f" />Als sich der Zustand seiner Frau drastisch verschlechtert, sucht ein 80-jähriger Brite verzweifelt nach jemandem, der helfen könnte. Ein Paar verspricht dem Rentner, den Notarzt zu rufen - doch raubt ihn stattdessen aus.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Als sich der Zustand seiner Frau drastisch verschlechtert, sucht ein 80-jähriger Brite verzweifelt nach jemandem, der helfen könnte. Ein Paar verspricht dem Rentner, den Notarzt zu rufen - doch raubt ihn stattdessen aus.]]></media:description>
+						<media:title>Zu Haftstrafen verurteilt - Herzlose Tat: Rentner sucht Hilfe für seine sterbende Frau - und wird ausgeraubt</media:title>
+						<media:player url="https://www.focus.de/panorama/welt/zu-haftstrafen-verurteilt-herzlose-tat-rentner-sucht-hilfe-fuer-seine-sterbende-frau-und-wird-ausgeraubt_id_13068584.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Irreführende Mythen im Faktencheck - Darmkrebs trifft nur Junge? 7 Dinge sollte jeder zur Krebs-Vorsorge wissen</title>
+						<link>https://www.focus.de/gesundheit/ratgeber/irrefuehrende-mythen-im-faktencheck-darmkrebs-trifft-nur-junge-7-dinge-sollte-jeder-zur-krebs-vorsorge-wissen_id_13067266.html</link>
+						<description>
+							Darmkrebs ist die zweithäufigste Krebstodesursache in Deutschland. Dabei ist die Vorsorge gerade bei Darmkrebs besonders effektiv – wenn man denn hingeht. Viele haben eine falsche Vorstellung, was bei einer solchen Untersuchung passiert. Wir haben die größten Mythen zur Darmkrebs-Vorsorge auf ihren Wahrheitsgehalt gecheckt.</description>
+						<category domain="">Ratgeber</category>
+						<pubDate>
+							Wed, 10 Mar 2021 15:47:24 +0100</pubDate>
+						<guid isPermaLink="false">aid_13067266</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[Darmkrebs ist die zweithäufigste Krebstodesursache in Deutschland. Dabei ist die Vorsorge gerade bei Darmkrebs besonders effektiv – wenn man denn hingeht. Viele haben eine falsche Vorstellung, was bei einer solchen Untersuchung passiert. Wir haben die größten Mythen zur Darmkrebs-Vorsorge auf ihren Wahrheitsgehalt gecheckt.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Darmkrebs ist die zweithäufigste Krebstodesursache in Deutschland. Dabei ist die Vorsorge gerade bei Darmkrebs besonders effektiv – wenn man denn hingeht. Viele haben eine falsche Vorstellung, was bei einer solchen Untersuchung passiert. Wir haben die größten Mythen zur Darmkrebs-Vorsorge auf ihren Wahrheitsgehalt gecheckt.]]></media:description>
+						<media:title>Irreführende Mythen im Faktencheck - Darmkrebs trifft nur Junge? 7 Dinge sollte jeder zur Krebs-Vorsorge wissen</media:title>
+						<media:player url="https://www.focus.de/gesundheit/ratgeber/irrefuehrende-mythen-im-faktencheck-darmkrebs-trifft-nur-junge-7-dinge-sollte-jeder-zur-krebs-vorsorge-wissen_id_13067266.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Mord durch Unterlassen - &amp;#034;Wollte ihr helfen&amp;#034;: Angeklagte im IS-Prozess um verdurstetes Mädchen bricht Schweigen</title>
+						<link>https://www.focus.de/panorama/welt/mord-durch-unterlassen-ich-wollte-ihr-helfen-wusste-aber-nicht-wie-is-prozess-um-verdurstetes-maedchen_id_13068142.html</link>
+						<description>
+							Im April 2019 begann in München der Terrorprozess gegen Jennifer W. Er zog sich immer weiter in die Länge - und fast zwei Jahre danach läuft er immer noch. Jetzt hat die Angeklagte ihr Schweigen gebrochen und sich erstmals zu den grauenvollen Vorwürfen geäußert.</description>
+						<category domain="">Aus aller Welt</category>
+						<pubDate>
+							Wed, 10 Mar 2021 15:44:58 +0100</pubDate>
+						<guid isPermaLink="false">aid_13068142</guid>
+						<dc:creator>dpa</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13068174/5f9d3a00cb87e20c-1-.jpg?im=Crop%3D%280%2C33%2C3414%2C2276%29%3BResize%3D%28120%29&amp;hash=6de9d2784daf640b58c00d3abda515a4a5ae4f22b5312d10b3beeed0ab85ee34" />Im April 2019 begann in München der Terrorprozess gegen Jennifer W. Er zog sich immer weiter in die Länge - und fast zwei Jahre danach läuft er immer noch. Jetzt hat die Angeklagte ihr Schweigen gebrochen und sich erstmals zu den grauenvollen Vorwürfen geäußert.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Im April 2019 begann in München der Terrorprozess gegen Jennifer W. Er zog sich immer weiter in die Länge - und fast zwei Jahre danach läuft er immer noch. Jetzt hat die Angeklagte ihr Schweigen gebrochen und sich erstmals zu den grauenvollen Vorwürfen geäußert.]]></media:description>
+						<media:title>Mord durch Unterlassen - &#034;Wollte ihr helfen&#034;: Angeklagte im IS-Prozess um verdurstetes Mädchen bricht Schweigen</media:title>
+						<media:player url="https://www.focus.de/panorama/welt/mord-durch-unterlassen-ich-wollte-ihr-helfen-wusste-aber-nicht-wie-is-prozess-um-verdurstetes-maedchen_id_13068142.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Tat geschah im November - 20-köpfige Schlägergruppe attackiert zwei Männer: Polizei sucht mit Fotos nach Tätern</title>
+						<link>https://www.focus.de/panorama/welt/tat-geschah-im-november-letzten-jahres-20-koepfige-schlaegergruppe-attackierte-zwei-maenner-berliner-polizei-sucht-jetzt-mit-fotos-nach-den-taetern_id_13068319.html</link>
+						<description>
+							Rund fünf Monate nachdem eine rund 20-köpfige Schlägergruppe zwei Männer in Berlin-Gesundbrunnen angegriffen und schwer verletzt hat, sucht die Polizei nun mit Bildern nach den mutmaßlichen Tätern.</description>
+						<category domain="">Aus aller Welt</category>
+						<pubDate>
+							Wed, 10 Mar 2021 15:42:26 +0100</pubDate>
+						<guid isPermaLink="false">aid_13068319</guid>
+						<dc:creator>dpa</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13067822/urn-newsml-dpa-com-20090101-210310-99-763573-large-4-3.jpg?im=Crop%3D%280%2C33%2C800%2C533%29%3BResize%3D%28120%29&amp;hash=31b8258cd5ce8000db703848e21fef0f2dd01fa4249099f1f95d9416bc06e2ef" />Rund fünf Monate nachdem eine rund 20-köpfige Schlägergruppe zwei Männer in Berlin-Gesundbrunnen angegriffen und schwer verletzt hat, sucht die Polizei nun mit Bildern nach den mutmaßlichen Tätern.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Rund fünf Monate nachdem eine rund 20-köpfige Schlägergruppe zwei Männer in Berlin-Gesundbrunnen angegriffen und schwer verletzt hat, sucht die Polizei nun mit Bildern nach den mutmaßlichen Tätern.]]></media:description>
+						<media:title>Tat geschah im November - 20-köpfige Schlägergruppe attackiert zwei Männer: Polizei sucht mit Fotos nach Tätern</media:title>
+						<media:player url="https://www.focus.de/panorama/welt/tat-geschah-im-november-letzten-jahres-20-koepfige-schlaegergruppe-attackierte-zwei-maenner-berliner-polizei-sucht-jetzt-mit-fotos-nach-den-taetern_id_13068319.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Lotto am Mittwoch - Das sind die aktuellen Gewinnzahlen vom 10. März</title>
+						<link>https://www.focus.de/panorama/lotto/lotto-am-mittwoch-das-sind-die-aktuellen-gewinnzahlen-vom-10-maerz_id_13068622.html</link>
+						<description>
+							Die aktuellen Gewinnzahlen vom Lotto am Mittwoch, den 10. März: Am vergangenen Samstag gelang es keinem Tipper, den Jackpot zu knacken. Am heutigen Mittwoch befinden sich somit 5 Millionen Euro im Topf. Bei FOCUS Online erfahren Sie immer die aktuellen Gewinnzahlen für Lotto 6aus49 sowie die Zusatzlotterien Spiel 77 und Super 6.</description>
+						<category domain="">Lotto</category>
+						<pubDate>
+							Wed, 10 Mar 2021 15:34:35 +0100</pubDate>
+						<guid isPermaLink="false">aid_13068622</guid>
+						<dc:creator>dpa</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_10143384/urn-newsml-dpa-com-20090101-190104-99-433289-large-4-3.jpg?im=Crop%3D%280%2C33%2C800%2C533%29%3BResize%3D%28120%29&amp;hash=f9ba93cb61d3f28a362b74574a22de31c6ebcdddfd2ae2feb74ed79f771dead6" />Die aktuellen Gewinnzahlen vom Lotto am Mittwoch, den 10. März: Am vergangenen Samstag gelang es keinem Tipper, den Jackpot zu knacken. Am heutigen Mittwoch befinden sich somit 5 Millionen Euro im Topf. Bei FOCUS Online erfahren Sie immer die aktuellen Gewinnzahlen für Lotto 6aus49 sowie die Zusatzlotterien Spiel 77 und Super 6.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Die aktuellen Gewinnzahlen vom Lotto am Mittwoch, den 10. März: Am vergangenen Samstag gelang es keinem Tipper, den Jackpot zu knacken. Am heutigen Mittwoch befinden sich somit 5 Millionen Euro im Topf. Bei FOCUS Online erfahren Sie immer die aktuellen Gewinnzahlen für Lotto 6aus49 sowie die Zusatzlotterien Spiel 77 und Super 6.]]></media:description>
+						<media:title>Lotto am Mittwoch - Das sind die aktuellen Gewinnzahlen vom 10. März</media:title>
+						<media:player url="https://www.focus.de/panorama/lotto/lotto-am-mittwoch-das-sind-die-aktuellen-gewinnzahlen-vom-10-maerz_id_13068622.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Gartentipps - Typische Fehler beim Gärtnern: Diese 3 Dinge machen Anfänger beim Rosen schneiden falsch</title>
+						<link>https://www.focus.de/wissen/einfach-besser-leben/gartentipps-typische-fehler-beim-gaertnern-diese-3-dinge-machen-anfaenger-beim-rosen-schneiden-falsch_id_13067670.html</link>
+						<description>
+							Über einen üppigen Rosengarten freuen sich viele Hobbygärtner. Damit die Blumen auch in diesem Jahr blühen können, brauchen die Rosen einen Rückschnitt. Was Sie dabei beachten sollten, und welche Fehler Sie vermeiden sollten, erklären wir Ihnen hier. </description>
+						<category domain="">Einfach besser leben</category>
+						<pubDate>
+							Wed, 10 Mar 2021 15:27:46 +0100</pubDate>
+						<guid isPermaLink="false">aid_13067670</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[Über einen üppigen Rosengarten freuen sich viele Hobbygärtner. Damit die Blumen auch in diesem Jahr blühen können, brauchen die Rosen einen Rückschnitt. Was Sie dabei beachten sollten, und welche Fehler Sie vermeiden sollten, erklären wir Ihnen hier. ]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Über einen üppigen Rosengarten freuen sich viele Hobbygärtner. Damit die Blumen auch in diesem Jahr blühen können, brauchen die Rosen einen Rückschnitt. Was Sie dabei beachten sollten, und welche Fehler Sie vermeiden sollten, erklären wir Ihnen hier. ]]></media:description>
+						<media:title>Gartentipps - Typische Fehler beim Gärtnern: Diese 3 Dinge machen Anfänger beim Rosen schneiden falsch</media:title>
+						<media:player url="https://www.focus.de/wissen/einfach-besser-leben/gartentipps-typische-fehler-beim-gaertnern-diese-3-dinge-machen-anfaenger-beim-rosen-schneiden-falsch_id_13067670.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Haushaltstipps - Staub im Haushalt: Mit diesen Tipps werden Sie ihn los</title>
+						<link>https://www.focus.de/wissen/einfach-besser-leben/haushaltstipps-staub-im-haushalt-mit-diesen-tipps-werden-sie-ihn-los_id_13066883.html</link>
+						<description>
+							Staubwischen ist für viele Menschen lästig. Denn oft legen sich die Flusen nach dem Wischen oder Saugen direkt wieder auf dem Boden und den Möbeln ab. Mit welchen Haushaltsgegenständen  Sie die Flusen langfristig fernhalten, fassen wir im Folgenden zusammen. Wie Sie mit dem Staubsauger selbst in die schwierigsten Ecken kommen, verraten wir im Video. </description>
+						<category domain="">Einfach besser leben</category>
+						<pubDate>
+							Wed, 10 Mar 2021 15:23:59 +0100</pubDate>
+						<guid isPermaLink="false">aid_13066883</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[Staubwischen ist für viele Menschen lästig. Denn oft legen sich die Flusen nach dem Wischen oder Saugen direkt wieder auf dem Boden und den Möbeln ab. Mit welchen Haushaltsgegenständen  Sie die Flusen langfristig fernhalten, fassen wir im Folgenden zusammen. Wie Sie mit dem Staubsauger selbst in die schwierigsten Ecken kommen, verraten wir im Video. ]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Staubwischen ist für viele Menschen lästig. Denn oft legen sich die Flusen nach dem Wischen oder Saugen direkt wieder auf dem Boden und den Möbeln ab. Mit welchen Haushaltsgegenständen  Sie die Flusen langfristig fernhalten, fassen wir im Folgenden zusammen. Wie Sie mit dem Staubsauger selbst in die schwierigsten Ecken kommen, verraten wir im Video. ]]></media:description>
+						<media:title>Haushaltstipps - Staub im Haushalt: Mit diesen Tipps werden Sie ihn los</media:title>
+						<media:player url="https://www.focus.de/wissen/einfach-besser-leben/haushaltstipps-staub-im-haushalt-mit-diesen-tipps-werden-sie-ihn-los_id_13066883.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Wie effektiv waren die Maßnahmen? - 70.000 Tote trotz Lockdown: Schwedens Corona-Solo stellt deutschen Zick-Zack-Kurs in Frage</title>
+						<link>https://www.focus.de/gesundheit/news/todeszahlen-im-vergleich-vergleich-mit-schweden-wirft-frage-auf-wie-wirksam-unser-lockdown-war_id_13037141.html</link>
+						<description>
+							Mehr als 70.000 Menschen sind in Deutschland bisher an den Folgen von Covid-19 gestorben. Runtergerechnet auf die Einwohnerzahl sind das ähnlich viele Corona-Tote wie in Schweden – ein Land, das nie einen Lockdown hatte. Ein Zeichen dafür, dass die strengen Maßnahmen hierzulande wenig genützt haben?</description>
+						<category domain="">News</category>
+						<pubDate>
+							Wed, 10 Mar 2021 14:59:14 +0100</pubDate>
+						<guid isPermaLink="false">aid_13037141</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13067629/gettyimages-1214359067.jpg?im=Crop%3D%280%2C0%2C3463%2C2308%29%3BResize%3D%28120%29&amp;hash=cff17793a7d604814bac381fea42baae215e8e77221b72273ec97100c07cc54b" />Mehr als 70.000 Menschen sind in Deutschland bisher an den Folgen von Covid-19 gestorben. Runtergerechnet auf die Einwohnerzahl sind das ähnlich viele Corona-Tote wie in Schweden – ein Land, das nie einen Lockdown hatte. Ein Zeichen dafür, dass die strengen Maßnahmen hierzulande wenig genützt haben?]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Mehr als 70.000 Menschen sind in Deutschland bisher an den Folgen von Covid-19 gestorben. Runtergerechnet auf die Einwohnerzahl sind das ähnlich viele Corona-Tote wie in Schweden – ein Land, das nie einen Lockdown hatte. Ein Zeichen dafür, dass die strengen Maßnahmen hierzulande wenig genützt haben?]]></media:description>
+						<media:title>Wie effektiv waren die Maßnahmen? - 70.000 Tote trotz Lockdown: Schwedens Corona-Solo stellt deutschen Zick-Zack-Kurs in Frage</media:title>
+						<media:player url="https://www.focus.de/gesundheit/news/todeszahlen-im-vergleich-vergleich-mit-schweden-wirft-frage-auf-wie-wirksam-unser-lockdown-war_id_13037141.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Die Corona-Trends des Tages - Nicht nur Inzidenz: 6 Werte bestimmen Pandemie - Grafiken zeigen, wo wir jetzt stehen</title>
+						<link>https://www.focus.de/gesundheit/covid-19-trends-des-tages-nicht-nur-inzidenz-6-werte-bestimmen-pandemie-so-stehen-wir_id_13050256.html</link>
+						<description>
+							Alle wichtigen Zahlen, Daten und Fakten zur Covid-19-Pandemie: FOCUS Online gibt Ihnen den Durchblick im Informationsdschungel rund um das Coronavirus. Wir zeigen Ihnen jeden Tag die wichtigsten, aktuellen Trends zu Covid-19 - heute die wichtigsten Zahlen aus Deutschland.</description>
+						<category domain="">Gesundheit</category>
+						<pubDate>
+							Wed, 10 Mar 2021 14:55:07 +0100</pubDate>
+						<guid isPermaLink="false">aid_13050256</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_12345688/gettyimages-1217101965.jpg?im=Crop%3D%280%2C0%2C2120%2C1413%29%3BResize%3D%28120%29&amp;hash=feec3d51d708dda085049e55be2b87b88b0067f305184710cc7fbbf83e569550" />Alle wichtigen Zahlen, Daten und Fakten zur Covid-19-Pandemie: FOCUS Online gibt Ihnen den Durchblick im Informationsdschungel rund um das Coronavirus. Wir zeigen Ihnen jeden Tag die wichtigsten, aktuellen Trends zu Covid-19 - heute die wichtigsten Zahlen aus Deutschland.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Alle wichtigen Zahlen, Daten und Fakten zur Covid-19-Pandemie: FOCUS Online gibt Ihnen den Durchblick im Informationsdschungel rund um das Coronavirus. Wir zeigen Ihnen jeden Tag die wichtigsten, aktuellen Trends zu Covid-19 - heute die wichtigsten Zahlen aus Deutschland.]]></media:description>
+						<media:title>Die Corona-Trends des Tages - Nicht nur Inzidenz: 6 Werte bestimmen Pandemie - Grafiken zeigen, wo wir jetzt stehen</media:title>
+						<media:player url="https://www.focus.de/gesundheit/covid-19-trends-des-tages-nicht-nur-inzidenz-6-werte-bestimmen-pandemie-so-stehen-wir_id_13050256.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Die Corona-Trends des Tages - Estland verliert die Kontrolle: Was die Probleme in der Pandemie sind</title>
+						<link>https://www.focus.de/gesundheit/die-corona-trends-des-tages-estland-verliert-die-kontrolle-was-die-probleme-in-der-pandemie-sind_id_13068358.html</link>
+						<description>
+							 </description>
+						<category domain="">Gesundheit</category>
+						<pubDate>
+							Wed, 10 Mar 2021 14:54:46 +0100</pubDate>
+						<guid isPermaLink="false">aid_13068358</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_12345688/gettyimages-1217101965.jpg?im=Crop%3D%280%2C0%2C2120%2C1413%29%3BResize%3D%28120%29&amp;hash=feec3d51d708dda085049e55be2b87b88b0067f305184710cc7fbbf83e569550" /> ]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[ ]]></media:description>
+						<media:title>Die Corona-Trends des Tages - Estland verliert die Kontrolle: Was die Probleme in der Pandemie sind</media:title>
+						<media:player url="https://www.focus.de/gesundheit/die-corona-trends-des-tages-estland-verliert-die-kontrolle-was-die-probleme-in-der-pandemie-sind_id_13068358.html" width="990" height="600" />
+						</item>
+			</channel>
+</rss>

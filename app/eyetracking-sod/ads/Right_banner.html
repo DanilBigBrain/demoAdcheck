@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<!-- saved from url=(0073)http://test.screenondemand.de/preview/SOD20_0600/desktop/right/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Right_banner</title>
+    <link rel="stylesheet" href="https://test.screenondemand.de/preview/SOD20_0600/desktop/right/style.css">
+</head>
+
+<body id="body">
+    <div id="hellopreloader"><div id="hellopreloader_preload" style="opacity: 0.05; display: none;"></div></div>
+
+    <div class="container">
+        <div class="flower1" id="flower1" style="height: 996px;"></div>
+        <div class="flower2" id="flower2" style="height: 988.877px;"></div>
+        <div class="flower3" id="flower3" style="height: 1509.75px;"></div>
+        <div class="flower4" id="flower4" style="height: 928.505px;"></div>
+        <div class="flower5" id="flower5" style="height: 1653.22px;"></div>
+        <div class="flower6" id="flower6" style="height: 1841.92px;"></div>
+        <div class="product" id="product" style="height: 2809.01px;"></div>
+        <div class="productShadow" id="productShadow" style="height: 1792.61px;"></div>
+        <div class="btn" id="btn" style="height: 130.875px;"></div>
+    </div>
+    <script type="text/javascript">
+        var hellopreloader = document.getElementById("hellopreloader_preload");
+
+        function fadeOutnojquery(el) {
+            el.style.opacity = 1;
+            var interhellopreloader = setInterval(function() {
+                el.style.opacity = el.style.opacity - 0.05;
+                if (el.style.opacity <= 0.05) {
+                    clearInterval(interhellopreloader);
+                    hellopreloader.style.display = "none";
+                }
+            }, 16);
+        }
+        window.onload = function() {
+            setTimeout(function() {
+                fadeOutnojquery(hellopreloader);
+            }, 1000);
+        };
+    </script>
+<script>
+        var bg = document.getElementsByClassName('bg')[0];
+        var logo = document.getElementsByClassName('logo')[0];
+        var text = document.getElementsByClassName('text')[0];
+        var text1 = document.getElementsByClassName('text1')[0];
+        var flower1 = document.getElementById("flower1");
+        var flower2 = document.getElementById("flower2");
+        var flower3 = document.getElementById("flower3");
+        var flower4 = document.getElementById("flower4");
+        var flower5 = document.getElementById("flower5");
+        var flower6 = document.getElementById("flower6");
+        var flower7 = document.getElementById("flower7");
+        var product = document.getElementById("product");
+        var productShadow = document.getElementById("productShadow");
+        var btn = document.getElementById("btn");
+
+        var k_block = 720 / 655;
+        var k_video = 440 / 237;
+        var k_block2 = 550 / 120;
+
+        var k_flower1 = 716 / 716;
+        var k_flower2 = 545 / 758;
+        var k_flower3 = 140 / 495;
+        var k_flower4 = 220 / 359;
+        var k_flower5 = 149 / 510;
+        var k_flower6 = 776 / 1256;
+        var k_flower7 = 700 / 218;
+        var k_product = 303 / 630;
+        var k_productShadow = 325 / 683;
+        var k_btn = 272 / 51;
+
+
+        function resize() {
+            flower1.style.height = flower1.offsetWidth / k_flower1 + 'px';
+            var qwerty = flower1.style.height = flower1.offsetWidth / k_flower1 + 'px';
+            console.log(qwerty);
+            parent.postMessage(JSON.stringify({
+                heightFlower: qwerty
+            }), '*');
+            flower2.style.height = flower2.offsetWidth / k_flower2 + 'px';
+            flower3.style.height = flower3.offsetWidth / k_flower3 + 'px';
+            flower4.style.height = flower4.offsetWidth / k_flower4 + 'px';
+            flower5.style.height = flower5.offsetWidth / k_flower5 + 'px';
+            flower6.style.height = flower6.offsetWidth / k_flower6 + 'px';
+            // flower7.style.height = flower7.offsetWidth / k_flower7 + 'px';
+            btn.style.height = btn.offsetWidth / k_btn + 'px';
+            product.style.height = product.offsetWidth / k_product + 'px';
+            productShadow.style.height = productShadow.offsetWidth / k_productShadow + 'px';
+        }
+
+        document.addEventListener('DOMContentLoaded', function () {
+            resize();
+        });
+
+        window.onresize = function (event) {
+            resize();
+        };         
+            
+        window.addEventListener('message', function(event) {
+            var parseData = JSON.parse(event.data);
+
+            bg.style.height = parseData.h + 'px';
+            bg.style.width = parseData.w + 'px';
+        });
+</script>
+<!-- <script>
+    var x_click = document.getElementsByTagName("body")[0];
+    x_click.addEventListener("click", clickout_1);
+
+    
+    var clickTag = readGETParameter("dspx_clicktag_p"),
+        dspx_debug = readGETParameter("dspx_debug"),
+        clickoutLinkRedirect = readGETParameter("dspx_clicktag"),
+        clickoutLink2 = readGETParameter("dspxct"),
+        clickoutEncodeLevel = readGETParameter("dspx_encodelevel");
+
+    function readGETParameter(c) {
+        var n = window.location.search.substring(1),
+            i = n.split("&");
+        for (var e = 0; e < i.length; e++) {
+            var o = i[e].split("=");
+            if (o[0] == c) {
+                return decodeURIComponent(o[1])
+            }
+        }
+        return c == "dspx_encodelevel" ? 2 : 0
+    }
+
+    function clickout_1() {
+        fireASCClicks();
+        var e = clickTag;
+        if (clickoutLinkRedirect != 0) {
+            e = clickoutLinkRedirect + btoa(e)
+        }
+        if (clickoutLink2 != 0) {
+            e = clickoutLink2 + encodeURIComponent(e)
+        }
+        if (dspx_debug) console.log(e);
+        window.open(e)
+    }
+
+    function fireASCClicks() {
+        var _c = "dspx_clicktagASC",
+            _nn = 5;
+        var cASC = function (c, nn) {
+            var n = window.location.search.substring(1),
+                i = n.split("&");
+            var aa = [];
+            for (var e = 0; e < i.length; e++) {
+                var o = i[e].split("=");
+                for (var ni = 0; ni < nn; ni++) {
+                    if (ni == 0) cc = c;
+                    else cc = c + ni;
+                    if (o[0] == cc) {
+                        aa.push(decodeURIComponent(o[1]))
+                    }
+                }
+            }
+            return aa
+        };
+        var ctASC = cASC(_c, _nn);
+        for (i = 0; i < ctASC.length; i++) {
+            if (dspx_debug == 1) console.log("fire Click ASC:" + ctASC[i]);
+            (new Image).src = ctASC[i]
+        }
+    }
+</script> -->
+
+
+</body></html>

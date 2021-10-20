@@ -1,0 +1,498 @@
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:media="http://search.yahoo.com/mrss/"
+	 
+	 xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>
+			Fußball, Formel 1, Golf, Specials</title>
+		<link>https://rss.focus.de/sport/</link>
+		<description>
+			Im Ressort Sport bei FOCUS Online findet der Leser aktuelle Infos zu fast allen Sportarten. Schwerpunkte sind Fußball, Formel 1 und Golf. Specials gibt es zu Olympischen Spielen, der Tour de France sowie zu Fußball-Europa- und Weltmeisterschaften.</description>
+		<image>
+			<url>https://p5.focus.de/fol/pics/fol/logo_125x40.png</url>
+			<title>
+				Fußball, Formel 1, Golf, Specials</title>
+			<link>
+				https://rss.focus.de/sport/</link>
+		</image>
+		<lastBuildDate>Tue, 04 May 2021 11:22:07 +0200</lastBuildDate>
+		<atom:link href="https://rss.focus.de/sport/" rel="self" type="application/rss+xml" />
+		<item>
+						<title>In der 2. Liga - Rouven Schröder wird neuer Sportdirektor beim FC Schalke 04 - Ex-Keeper befördert</title>
+						<link>https://www.focus.de/sport/fussball/bundesliga1/in-der-2-liga-rouven-schroeder-wird-neuer-sportdirektor-beim-fc-schalke-04-ex-keeper-befoerdert_id_13260017.html</link>
+						<description>
+							Schalke 04 hat einen neuen Sportdirektor verpflichtet. Zum 1. Juni übernimmt Rouven Schröder das Amt beim feststehenden Bundesliga-Absteiger. Zudem wird Mathias Schober, Ex-Torhüter des Vereins, neuer Direktor der Knappenschmiede.</description>
+						<category domain="">Bundesliga</category>
+						<pubDate>
+							Tue, 04 May 2021 11:22:07 +0200</pubDate>
+						<guid isPermaLink="false">aid_13260017</guid>
+						<dc:creator>FOCUS Online</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_12803964/urn-newsml-dpa-com-20090101-201222-99-788414-large-4-3.jpg?im=Crop%3D%280%2C33%2C800%2C533%29%3BResize%3D%28120%29&amp;hash=c79886f8cfb1a0d337ad5a2bd86be80f845d5f80f8aaf9bd654d9043d179dd1f" />Schalke 04 hat einen neuen Sportdirektor verpflichtet. Zum 1. Juni übernimmt Rouven Schröder das Amt beim feststehenden Bundesliga-Absteiger. Zudem wird Mathias Schober, Ex-Torhüter des Vereins, neuer Direktor der Knappenschmiede.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Schalke 04 hat einen neuen Sportdirektor verpflichtet. Zum 1. Juni übernimmt Rouven Schröder das Amt beim feststehenden Bundesliga-Absteiger. Zudem wird Mathias Schober, Ex-Torhüter des Vereins, neuer Direktor der Knappenschmiede.]]></media:description>
+						<media:title>In der 2. Liga - Rouven Schröder wird neuer Sportdirektor beim FC Schalke 04 - Ex-Keeper befördert</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/bundesliga1/in-der-2-liga-rouven-schroeder-wird-neuer-sportdirektor-beim-fc-schalke-04-ex-keeper-befoerdert_id_13260017.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Live-Stream - So sehen Sie Hansa Rostock gegen FC Ingolstadt live im Internet</title>
+						<link>https://www.focus.de/sport/fussball/live-stream-so-sehen-sie-hansa-rostock-gegen-fc-ingolstadt-live-im-internet_id_13259836.html</link>
+						<description>
+							Hansa Rostock - FC Ingolstadt im Live-Stream: Spitzenspiel in der dritten Liga! Am heutigen Dienstag geht es in der 3. Bundesliga um den Aufstieg. So sehen Sie Hansa - Ingolstadt live im Internet.</description>
+						<category domain="">Fußball</category>
+						<pubDate>
+							Tue, 04 May 2021 10:47:46 +0200</pubDate>
+						<guid isPermaLink="false">aid_13259836</guid>
+						<dc:creator>dpa</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/regional/mecklenburg-vorpommern/id_13254043/trainer-jens-haertel..jpg?im=Crop%3D%280%2C38%2C2048%2C1365%29%3BResize%3D%28120%29&amp;hash=73cd48674f763500586f48ad777b00522dbb1ad26a74aa7e3b5420a5a1d658b7" />Hansa Rostock - FC Ingolstadt im Live-Stream: Spitzenspiel in der dritten Liga! Am heutigen Dienstag geht es in der 3. Bundesliga um den Aufstieg. So sehen Sie Hansa - Ingolstadt live im Internet.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Hansa Rostock - FC Ingolstadt im Live-Stream: Spitzenspiel in der dritten Liga! Am heutigen Dienstag geht es in der 3. Bundesliga um den Aufstieg. So sehen Sie Hansa - Ingolstadt live im Internet.]]></media:description>
+						<media:title>Live-Stream - So sehen Sie Hansa Rostock gegen FC Ingolstadt live im Internet</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/live-stream-so-sehen-sie-hansa-rostock-gegen-fc-ingolstadt-live-im-internet_id_13259836.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Ihr Mann war Bayern-Star - Spielerfrau Jessica Contento setzt sich mit Projekt für Schwächste der Gesellschaft ein</title>
+						<link>https://www.focus.de/sport/fussball/jessica-contento-frau-von-ex-bayern-star-setzt-sich-mit-online-nachhilfe-fuer-sos-kinderdorf-ein_id_13043971.html</link>
+						<description>
+							Jessica Contento ist eine sogenannte Spielerfrau, ihr Mann Diego war lange beim FC Bayern. Contentos Projekt der Online-Nachhilfe Easy Tutor erfährt durch Corona einen Schub, auch in der Bundesliga. Mit Unterstützung für SOS-Kinderdörfer hat es einen sozialen Aspekt: Hilfe für die Schwächsten der Gesellschaft.Von FOCUS-Online-Redakteur Johannes Mittermeier</description>
+						<category domain="">Fußball</category>
+						<pubDate>
+							Wed, 03 Mar 2021 18:15:54 +0100</pubDate>
+						<guid isPermaLink="false">aid_13043971</guid>
+						<dc:creator>Von FOCUS-Online-Redakteur Johannes Mittermeier</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13043949/whatsapp-image-2021-03-01-at-17.00.16.png?im=Crop%3D%280%2C33%2C572%2C382%29%3BResize%3D%28120%29&amp;hash=08e11f5d65c8c0542339bf0ebef2bc7b9e3e291d95b1081dc41f3aecc3a5b41b" />Jessica Contento ist eine sogenannte Spielerfrau, ihr Mann Diego war lange beim FC Bayern. Contentos Projekt der Online-Nachhilfe Easy Tutor erfährt durch Corona einen Schub, auch in der Bundesliga. Mit Unterstützung für SOS-Kinderdörfer hat es einen sozialen Aspekt: Hilfe für die Schwächsten der Gesellschaft.Von FOCUS-Online-Redakteur Johannes Mittermeier]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Jessica Contento ist eine sogenannte Spielerfrau, ihr Mann Diego war lange beim FC Bayern. Contentos Projekt der Online-Nachhilfe Easy Tutor erfährt durch Corona einen Schub, auch in der Bundesliga. Mit Unterstützung für SOS-Kinderdörfer hat es einen sozialen Aspekt: Hilfe für die Schwächsten der Gesellschaft.Von FOCUS-Online-Redakteur Johannes Mittermeier]]></media:description>
+						<media:title>Ihr Mann war Bayern-Star - Spielerfrau Jessica Contento setzt sich mit Projekt für Schwächste der Gesellschaft ein</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/jessica-contento-frau-von-ex-bayern-star-setzt-sich-mit-online-nachhilfe-fuer-sos-kinderdorf-ein_id_13043971.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Vettel-Boss macht ehrgeizige Ansage - Aston Martin plant den Weltmeister-Weg</title>
+						<link>https://www.focus.de/sport/formel1/aston-martin-weltmeister-plan-vettels-boss-macht-ehrgeizige-formel-1-ansage_id_13043996.html</link>
+						<description>
+							Aston Martin stellt sein Auto für die Formel-1-Saison 2021 vor und benennt ehrgeizige Ziele: In drei bis fünf Jahren soll der WM-Titel stehen. Sebastian Vettels Teamchef Otmar Szafnauer erklärt den Plan, die angestoßenen Prozesse, die Chancen und Risiken - und den Druck des Namens.</description>
+						<category domain="">Formel 1</category>
+						<pubDate>
+							Wed, 03 Mar 2021 17:35:11 +0100</pubDate>
+						<guid isPermaLink="false">aid_13043996</guid>
+						<dc:creator>Motorsport Total</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/sport/formel1/id_13043995/2021-soll-es-noch-nicht-der-wm-titel-sein-moeglicherweise-aber-bald.png?im=Crop%3D%280%2C23%2C590%2C394%29%3BResize%3D%28120%29&amp;hash=23a265098996629745c5c977fc9bb626e6606b1a562d4ae087b5ddbe35c20ed0" />Aston Martin stellt sein Auto für die Formel-1-Saison 2021 vor und benennt ehrgeizige Ziele: In drei bis fünf Jahren soll der WM-Titel stehen. Sebastian Vettels Teamchef Otmar Szafnauer erklärt den Plan, die angestoßenen Prozesse, die Chancen und Risiken - und den Druck des Namens.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Aston Martin stellt sein Auto für die Formel-1-Saison 2021 vor und benennt ehrgeizige Ziele: In drei bis fünf Jahren soll der WM-Titel stehen. Sebastian Vettels Teamchef Otmar Szafnauer erklärt den Plan, die angestoßenen Prozesse, die Chancen und Risiken - und den Druck des Namens.]]></media:description>
+						<media:title>Vettel-Boss macht ehrgeizige Ansage - Aston Martin plant den Weltmeister-Weg</media:title>
+						<media:player url="https://www.focus.de/sport/formel1/aston-martin-weltmeister-plan-vettels-boss-macht-ehrgeizige-formel-1-ansage_id_13043996.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Keine Punkte in Portugal - Vettels nächste Enttäuschung: Rennen offenbart Aston-Martin-Schwäche</title>
+						<link>https://www.focus.de/sport/formel1/sebastian-vettel-portugal-enttaeuschung-rennen-offenbart-eine-aston-martin-schwaeche_id_13254535.html</link>
+						<description>
+							Nächste Enttäuschung für Sebastian Vettel. Der Aston-Martin-Pilot glaubt beim Formel-1-Rennen in Portugal nach Startplatz 10 an Punkte - und muss dann erkennen, wie der Grand Prix gnadenlos die Schwäche von Aston Martin offenbart. Vettel hofft jetzt auf neue Teile.</description>
+						<category domain="">Formel 1</category>
+						<pubDate>
+							Mon, 03 May 2021 09:10:46 +0200</pubDate>
+						<guid isPermaLink="false">aid_13254535</guid>
+						<dc:creator>Motorsport Total</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/sport/formel1/id_13254534/da-ging-nicht-viel-sebastian-vettel-fiel-in-portimao-aus-den-punkteraengen-heraus.jpg?im=Crop%3D%280%2C23%2C600%2C400%29%3BResize%3D%28120%29&amp;hash=4de1c74a6e21aecae41895c08b4ff1606162bb1f73632d3b9b9db40bb525e7b8" />Nächste Enttäuschung für Sebastian Vettel. Der Aston-Martin-Pilot glaubt beim Formel-1-Rennen in Portugal nach Startplatz 10 an Punkte - und muss dann erkennen, wie der Grand Prix gnadenlos die Schwäche von Aston Martin offenbart. Vettel hofft jetzt auf neue Teile.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Nächste Enttäuschung für Sebastian Vettel. Der Aston-Martin-Pilot glaubt beim Formel-1-Rennen in Portugal nach Startplatz 10 an Punkte - und muss dann erkennen, wie der Grand Prix gnadenlos die Schwäche von Aston Martin offenbart. Vettel hofft jetzt auf neue Teile.]]></media:description>
+						<media:title>Keine Punkte in Portugal - Vettels nächste Enttäuschung: Rennen offenbart Aston-Martin-Schwäche</media:title>
+						<media:player url="https://www.focus.de/sport/formel1/sebastian-vettel-portugal-enttaeuschung-rennen-offenbart-eine-aston-martin-schwaeche_id_13254535.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>+++ Transfer-Ticker +++ - Bericht: Union Berlin will Bayerns Nübel ausleihen</title>
+						<link>https://www.focus.de/sport/fussball/transfer-ticker-medien-messi-liegt-angebot-von-paris-saint-germain-vor_id_12984659.html</link>
+						<description>
+							Das Transferkarussell dreht sich: Der FC Bayern, RB Leipzig, Borussia Dortmund sowie die Klubs aus England, Italien und Spanien schauen nach Top-Transfers und planen den Kader für die kommende Saison. Hier finden Sie alle Transfer-News und Gerüchte im Ticker.</description>
+						<category domain="">Fußball</category>
+						<pubDate>
+							Tue, 20 Apr 2021 22:11:18 +0200</pubDate>
+						<guid isPermaLink="false">aid_12984659</guid>
+						<dc:creator>mit dpa / sid</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13259743/imago1001574129h.jpg?im=Crop%3D%280%2C0%2C3464%2C2309%29%3BResize%3D%28120%29&amp;hash=fec77719fdc01ae5475228e8f7ac6f16f83259274d52251b3ae4b308e1827acf" />Das Transferkarussell dreht sich: Der FC Bayern, RB Leipzig, Borussia Dortmund sowie die Klubs aus England, Italien und Spanien schauen nach Top-Transfers und planen den Kader für die kommende Saison. Hier finden Sie alle Transfer-News und Gerüchte im Ticker.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Das Transferkarussell dreht sich: Der FC Bayern, RB Leipzig, Borussia Dortmund sowie die Klubs aus England, Italien und Spanien schauen nach Top-Transfers und planen den Kader für die kommende Saison. Hier finden Sie alle Transfer-News und Gerüchte im Ticker.]]></media:description>
+						<media:title>+++ Transfer-Ticker +++ - Bericht: Union Berlin will Bayerns Nübel ausleihen</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/transfer-ticker-medien-messi-liegt-angebot-von-paris-saint-germain-vor_id_12984659.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Live-Stream - So sehen Sie TSV 1860 München gegen 1. FC Kaiserslautern live im Internet</title>
+						<link>https://www.focus.de/sport/fussball/live-stream-so-sehen-sie-tsv-1860-muenchen-gegen-1-fc-kaiserslautern-live-im-internet_id_13259719.html</link>
+						<description>
+							1860 München - Kaiserslautern im Live-Stream: Die &#034;Löwen&#034; stehen voller Elan in den Startlöchern - &#034;Wir haben nichts zu verlieren&#034; ist ihr Motto. Auch Lautern-Trainer Antwerpen gibt sich optimistisch. So sehen Sie 1860 - FCK live im Internet.</description>
+						<category domain="">Fußball</category>
+						<pubDate>
+							Tue, 04 May 2021 10:47:49 +0200</pubDate>
+						<guid isPermaLink="false">aid_13259719</guid>
+						<dc:creator>dpa</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/sport/fussball/id_13201923/1860-muenchen-gewinnt-das-derby-gegen-tuerkguecu.jpg?im=Crop%3D%280%2C42%2C999%2C666%29%3BResize%3D%28120%29&amp;hash=e7874fe84e1e2dcb65c20517d234dd24460fdfc4c2f586f1e922d55ab052768f" />1860 München - Kaiserslautern im Live-Stream: Die "Löwen" stehen voller Elan in den Startlöchern - "Wir haben nichts zu verlieren" ist ihr Motto. Auch Lautern-Trainer Antwerpen gibt sich optimistisch. So sehen Sie 1860 - FCK live im Internet.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[1860 München - Kaiserslautern im Live-Stream: Die "Löwen" stehen voller Elan in den Startlöchern - "Wir haben nichts zu verlieren" ist ihr Motto. Auch Lautern-Trainer Antwerpen gibt sich optimistisch. So sehen Sie 1860 - FCK live im Internet.]]></media:description>
+						<media:title>Live-Stream - So sehen Sie TSV 1860 München gegen 1. FC Kaiserslautern live im Internet</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/live-stream-so-sehen-sie-tsv-1860-muenchen-gegen-1-fc-kaiserslautern-live-im-internet_id_13259719.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Champions League, Halbfinal-Rückspiel - Manchester City gegen PSG im Live-Ticker: Bricht Guardiola den Final-Fluch?</title>
+						<link>https://www.focus.de/sport/fussball/championsleague/champions-league-halbfinal-rueckspiel-manchester-city-gegen-psg-im-live-ticker-bricht-guardiola-den-final-fluch_id_13259368.html</link>
+						<description>
+							Manchester City hat nach dem 2:1-Hinspiel-Erfolg gegen Paris Saint-Germain im heimischen Stadion beste Karten auf den Einzug in das Finale der Champions League. Pep Guardiola würde mit dem Klub Historisches schaffen - und seinen eigenen Final-Fluch brechen. Alle Infos im Live-Ticker.</description>
+						<category domain="">Champions League</category>
+						<pubDate>
+							Tue, 04 May 2021 09:58:09 +0200</pubDate>
+						<guid isPermaLink="false">aid_13259368</guid>
+						<dc:creator>mit dpa</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13259557/imago1002388993h.jpg?im=Crop%3D%280%2C0%2C3464%2C2309%29%3BResize%3D%28120%29&amp;hash=5ad341b9bd0564bc2d6cd34534d1c7f9cf677d61e460dae01567dcbfe68440c2" />Manchester City hat nach dem 2:1-Hinspiel-Erfolg gegen Paris Saint-Germain im heimischen Stadion beste Karten auf den Einzug in das Finale der Champions League. Pep Guardiola würde mit dem Klub Historisches schaffen - und seinen eigenen Final-Fluch brechen. Alle Infos im Live-Ticker.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Manchester City hat nach dem 2:1-Hinspiel-Erfolg gegen Paris Saint-Germain im heimischen Stadion beste Karten auf den Einzug in das Finale der Champions League. Pep Guardiola würde mit dem Klub Historisches schaffen - und seinen eigenen Final-Fluch brechen. Alle Infos im Live-Ticker.]]></media:description>
+						<media:title>Champions League, Halbfinal-Rückspiel - Manchester City gegen PSG im Live-Ticker: Bricht Guardiola den Final-Fluch?</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/championsleague/champions-league-halbfinal-rueckspiel-manchester-city-gegen-psg-im-live-ticker-bricht-guardiola-den-final-fluch_id_13259368.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Champions League im Live-Stream - So sehen Sie Manchester City gegen PSG heute live im Internet</title>
+						<link>https://www.focus.de/sport/fussball/championsleague/champions-league-im-live-stream-so-sehen-sie-manchester-city-gegen-psg-heute-live-im-internet_id_13259248.html</link>
+						<description>
+							Manchester City gegen PSG im Live-Stream: Nach dem Sieg von Man City im Hinspiel kommt es am heutigen Dienstag im Champions-League-Halbfinale zum Rückspiel zwischen Manchester City und Paris Saint-Germain. So sehen Sie das Spiel live im Internet.</description>
+						<category domain="">Champions League</category>
+						<pubDate>
+							Tue, 04 May 2021 08:52:31 +0200</pubDate>
+						<guid isPermaLink="false">aid_13259248</guid>
+						<dc:creator>dpa</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13169380/32a50e00f33c94ef.jpg?im=Crop%3D%280%2C11%2C3123%2C2082%29%3BResize%3D%28120%29&amp;hash=4b01b2f66e7b3e2248cc332da899e560f99b072ebd98aaf69b1e0a6f1315ff35" />Manchester City gegen PSG im Live-Stream: Nach dem Sieg von Man City im Hinspiel kommt es am heutigen Dienstag im Champions-League-Halbfinale zum Rückspiel zwischen Manchester City und Paris Saint-Germain. So sehen Sie das Spiel live im Internet.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Manchester City gegen PSG im Live-Stream: Nach dem Sieg von Man City im Hinspiel kommt es am heutigen Dienstag im Champions-League-Halbfinale zum Rückspiel zwischen Manchester City und Paris Saint-Germain. So sehen Sie das Spiel live im Internet.]]></media:description>
+						<media:title>Champions League im Live-Stream - So sehen Sie Manchester City gegen PSG heute live im Internet</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/championsleague/champions-league-im-live-stream-so-sehen-sie-manchester-city-gegen-psg-heute-live-im-internet_id_13259248.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Champions League 2020/21 - Spielplan, Ergebnisse, Termine im Überblick</title>
+						<link>https://www.focus.de/sport/fussball/champions-league-2020-21-spielplan-ergebnisse-termine-im-ueberblick_id_11081900.html</link>
+						<description>
+							Champions-League-Spielplan 2020/21: Der FC Bayern und Borussia Dortmund scheiden im Viertelfinale der Königsklasse als letzte deutsche Vertreter aus. Im Halbfinale schielen Man City, PSG, Chelsea und Real Madrid auf das Endspiel in Instanbul. Alle Spiele, Ergebnisse und Termine im Überblick.</description>
+						<category domain="">Fußball</category>
+						<pubDate>
+							Fri, 02 Oct 2020 08:31:33 +0200</pubDate>
+						<guid isPermaLink="false">aid_11081900</guid>
+						<dc:creator>dpa</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_11085641/urn-newsml-dpa-com-20090101-190829-99-662043-large-4-3.jpg?im=Crop%3D%280%2C33%2C800%2C533%29%3BResize%3D%28120%29&amp;hash=0cdd72509ce281bc8c474967499504415809d1fb0c33bdc26706c2c4a3b83da8" />Champions-League-Spielplan 2020/21: Der FC Bayern und Borussia Dortmund scheiden im Viertelfinale der Königsklasse als letzte deutsche Vertreter aus. Im Halbfinale schielen Man City, PSG, Chelsea und Real Madrid auf das Endspiel in Instanbul. Alle Spiele, Ergebnisse und Termine im Überblick.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Champions-League-Spielplan 2020/21: Der FC Bayern und Borussia Dortmund scheiden im Viertelfinale der Königsklasse als letzte deutsche Vertreter aus. Im Halbfinale schielen Man City, PSG, Chelsea und Real Madrid auf das Endspiel in Instanbul. Alle Spiele, Ergebnisse und Termine im Überblick.]]></media:description>
+						<media:title>Champions League 2020/21 - Spielplan, Ergebnisse, Termine im Überblick</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/champions-league-2020-21-spielplan-ergebnisse-termine-im-ueberblick_id_11081900.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Fußball-Podcast mit Kleiß und Wagner - Bundesliga ist unfassbar langweilig geworden - Bayern kauft einfach alles weg</title>
+						<link>https://www.focus.de/sport/fussball/fussball-podcast-mit-kleiss-und-wagner-bundesliga-ist-unfassbar-langweilig-geworden-bayern-kauft-einfach-alles-weg_id_13258517.html</link>
+						<description>
+							FOCUS-Online-Kolumnist Mike Kleiß und Fußball-Experte Thomas Wagner sprechen im Podcast &#034;Eier, wir brauchen Eier&#034; über den FC Bayern, der sich Leipzig-Trainer Julian Nagelsmann gekrallt hat. Außerdem geht&#039;s um den HSV, der erneut am Wiederaufstieg zu scheitern droht. </description>
+						<category domain="">Fußball</category>
+						<pubDate>
+							Mon, 03 May 2021 19:29:07 +0200</pubDate>
+						<guid isPermaLink="false">aid_13258517</guid>
+						<dc:creator>FOCUS Online</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13258515/imago1002363397h.jpg?im=Crop%3D%280%2C0%2C3464%2C2309%29%3BResize%3D%28120%29&amp;hash=7720c4d92e5517fab593962a8281ac3c4cecbf1902465888b87296cc265d4692" />FOCUS-Online-Kolumnist Mike Kleiß und Fußball-Experte Thomas Wagner sprechen im Podcast "Eier, wir brauchen Eier" über den FC Bayern, der sich Leipzig-Trainer Julian Nagelsmann gekrallt hat. Außerdem geht's um den HSV, der erneut am Wiederaufstieg zu scheitern droht. ]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[FOCUS-Online-Kolumnist Mike Kleiß und Fußball-Experte Thomas Wagner sprechen im Podcast "Eier, wir brauchen Eier" über den FC Bayern, der sich Leipzig-Trainer Julian Nagelsmann gekrallt hat. Außerdem geht's um den HSV, der erneut am Wiederaufstieg zu scheitern droht. ]]></media:description>
+						<media:title>Fußball-Podcast mit Kleiß und Wagner - Bundesliga ist unfassbar langweilig geworden - Bayern kauft einfach alles weg</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/fussball-podcast-mit-kleiss-und-wagner-bundesliga-ist-unfassbar-langweilig-geworden-bayern-kauft-einfach-alles-weg_id_13258517.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Rückspiel-Kracher gegen PSG - Guardiola zittert! City-Trainer fürchtet Fluch, der ihn seit zehn Jahren verfolgt</title>
+						<link>https://www.focus.de/sport/rueckspiel-kracher-gegen-psg-guardiola-zittert-scheitert-ex-bayern-coach-erneut-an-zehn-jahre-andauerndem-fluch_id_13258464.html</link>
+						<description>
+							Pep Guardiola und Manchester City gehen nach dem 2:1-Sieg in Paris mit einem komfortablen Vorsprung ins Halbfinal-Rückspiel gegen PSG. Dennoch muss der katalanische Star-Trainer bangen, denn er kämpft auch gegen seinen persönlichen Fluch in der Königsklasse.</description>
+						<category domain="">Sport</category>
+						<pubDate>
+							Mon, 03 May 2021 22:55:04 +0200</pubDate>
+						<guid isPermaLink="false">aid_13258464</guid>
+						<dc:creator>FOCUS Online</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13258694/imago1002120246h.jpg?im=Crop%3D%28193%2C0%2C3367%2C2246%29%3BResize%3D%28120%29&amp;hash=a26055c648da106c4d19b07c3ae268220f4625145b9d1e17985084be84e5b355" />Pep Guardiola und Manchester City gehen nach dem 2:1-Sieg in Paris mit einem komfortablen Vorsprung ins Halbfinal-Rückspiel gegen PSG. Dennoch muss der katalanische Star-Trainer bangen, denn er kämpft auch gegen seinen persönlichen Fluch in der Königsklasse.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Pep Guardiola und Manchester City gehen nach dem 2:1-Sieg in Paris mit einem komfortablen Vorsprung ins Halbfinal-Rückspiel gegen PSG. Dennoch muss der katalanische Star-Trainer bangen, denn er kämpft auch gegen seinen persönlichen Fluch in der Königsklasse.]]></media:description>
+						<media:title>Rückspiel-Kracher gegen PSG - Guardiola zittert! City-Trainer fürchtet Fluch, der ihn seit zehn Jahren verfolgt</media:title>
+						<media:player url="https://www.focus.de/sport/rueckspiel-kracher-gegen-psg-guardiola-zittert-scheitert-ex-bayern-coach-erneut-an-zehn-jahre-andauerndem-fluch_id_13258464.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Über Salzburg und Leipzig nach München - Upamecano wollte vor sechs Jahren zum FC Bayern - Mutter legte Veto ein</title>
+						<link>https://www.focus.de/sport/fussball/ueber-salzburg-und-leipzig-nach-muenchen-upamecano-wollte-vor-sechs-jahren-zum-fc-bayern-mutter-legte-veto-ein_id_13259053.html</link>
+						<description>
+							Dayot Upamecano wechselt im Sommer zum FC Bayern und trifft dort erneut auf seinen jetzigen Trainer bei RB Leipzig Julian Nagelsmann. Für den Abwehrspieler geht ein Traum in Erfüllung. Denn Upamecano wollte vor sechs Jahren schon nach München, seine Mutter verhinderte aber einen Wechsel.</description>
+						<category domain="">Fußball</category>
+						<pubDate>
+							Tue, 04 May 2021 07:35:05 +0200</pubDate>
+						<guid isPermaLink="false">aid_13259053</guid>
+						<dc:creator>Abendzeitung</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13259117/imago1002053148h.jpg?im=Crop%3D%280%2C0%2C3464%2C2309%29%3BResize%3D%28120%29&amp;hash=6fb384bd6c4ddc46ac8e7777070f57aacc9b98a53f5e1803acb03a8c4102e8fe" />Dayot Upamecano wechselt im Sommer zum FC Bayern und trifft dort erneut auf seinen jetzigen Trainer bei RB Leipzig Julian Nagelsmann. Für den Abwehrspieler geht ein Traum in Erfüllung. Denn Upamecano wollte vor sechs Jahren schon nach München, seine Mutter verhinderte aber einen Wechsel.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Dayot Upamecano wechselt im Sommer zum FC Bayern und trifft dort erneut auf seinen jetzigen Trainer bei RB Leipzig Julian Nagelsmann. Für den Abwehrspieler geht ein Traum in Erfüllung. Denn Upamecano wollte vor sechs Jahren schon nach München, seine Mutter verhinderte aber einen Wechsel.]]></media:description>
+						<media:title>Über Salzburg und Leipzig nach München - Upamecano wollte vor sechs Jahren zum FC Bayern - Mutter legte Veto ein</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/ueber-salzburg-und-leipzig-nach-muenchen-upamecano-wollte-vor-sechs-jahren-zum-fc-bayern-mutter-legte-veto-ein_id_13259053.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>+++ Nationalmannschaft im News-Ticker +++ - Nächster Rückschlag für den DFB-Boss: Nun muss Keller vors Sportgericht</title>
+						<link>https://www.focus.de/sport/fussball/dfb-team/nationalmannschaft-im-news-ticker-loew-bricht-sein-schweigen-bundestrainer-spricht-auf-dfb-pressekonferenz_id_12642140.html</link>
+						<description>
+							Beim Deutschen Fußball-Bund brennt hinter den Kulissen der Baum. Einen Tag nach dem Misstrauens-Votum der 21 Landesverbände muss sich DFB-Präsident Fritz Keller vor dem Sportgericht verantworten. Alles Infos zum DFB und zur Nationalmannschaft im News-Ticker.</description>
+						<category domain="">DFB-Team</category>
+						<pubDate>
+							Mon, 07 Dec 2020 13:51:00 +0100</pubDate>
+						<guid isPermaLink="false">aid_12642140</guid>
+						<dc:creator>FOCUS Online</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/panorama/welt/id_13254784/dfb-praesident-fritz-keller-soll-nach-ansicht-der-landes-und-regionalchefs-zuruecktreten..jpg?im=Crop%3D%280%2C20%2C2048%2C1365%29%3BResize%3D%28120%29&amp;hash=3268eb385a3b75380376e8950e1dd730ec263e54ca65011b8139f51ec1edd46c" />Beim Deutschen Fußball-Bund brennt hinter den Kulissen der Baum. Einen Tag nach dem Misstrauens-Votum der 21 Landesverbände muss sich DFB-Präsident Fritz Keller vor dem Sportgericht verantworten. Alles Infos zum DFB und zur Nationalmannschaft im News-Ticker.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Beim Deutschen Fußball-Bund brennt hinter den Kulissen der Baum. Einen Tag nach dem Misstrauens-Votum der 21 Landesverbände muss sich DFB-Präsident Fritz Keller vor dem Sportgericht verantworten. Alles Infos zum DFB und zur Nationalmannschaft im News-Ticker.]]></media:description>
+						<media:title>+++ Nationalmannschaft im News-Ticker +++ - Nächster Rückschlag für den DFB-Boss: Nun muss Keller vors Sportgericht</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/dfb-team/nationalmannschaft-im-news-ticker-loew-bricht-sein-schweigen-bundestrainer-spricht-auf-dfb-pressekonferenz_id_12642140.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>EM 2021 - Spielplan, Termine und Ergebnisse der Fußball-Europameisterschaft</title>
+						<link>https://www.focus.de/sport/fussball/em_2021/em-2021-spielplan-termine-und-ergebnisse-der-europameisterschaft_id_13242479.html</link>
+						<description>
+							Die Europameisterschaft 2021 findet vom 11. Juni bis 11. Juli 2021 statt. Die deutsche Nationalmannschaft hat mit Frankreich, Portugal und Ungarn eine schwere Vorrundengruppe erwischt. Die DFB-Spiele finden in München statt. Alle EM-Spiele, Temine und Ergebnisse im Überblick.</description>
+						<category domain="">EM 2021</category>
+						<pubDate>
+							Wed, 28 Apr 2021 19:00:11 +0200</pubDate>
+						<guid isPermaLink="false">aid_13242479</guid>
+						<dc:creator>FOCUS Online</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13242502/imago0049316687h.jpg?im=Crop%3D%283%2C0%2C3460%2C2307%29%3BResize%3D%28120%29&amp;hash=44cc586b07ef5bb43e7662e4e9c0cb14d3f11522809078bf392ff4aaa909e2d7" />Die Europameisterschaft 2021 findet vom 11. Juni bis 11. Juli 2021 statt. Die deutsche Nationalmannschaft hat mit Frankreich, Portugal und Ungarn eine schwere Vorrundengruppe erwischt. Die DFB-Spiele finden in München statt. Alle EM-Spiele, Temine und Ergebnisse im Überblick.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Die Europameisterschaft 2021 findet vom 11. Juni bis 11. Juli 2021 statt. Die deutsche Nationalmannschaft hat mit Frankreich, Portugal und Ungarn eine schwere Vorrundengruppe erwischt. Die DFB-Spiele finden in München statt. Alle EM-Spiele, Temine und Ergebnisse im Überblick.]]></media:description>
+						<media:title>EM 2021 - Spielplan, Termine und Ergebnisse der Fußball-Europameisterschaft</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/em_2021/em-2021-spielplan-termine-und-ergebnisse-der-europameisterschaft_id_13242479.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Zäsur in der Bayern-Abwehr - Nagelsmann muss im Sommer komplett umstrukturieren</title>
+						<link>https://www.focus.de/sport/fussball/bundesliga1/fc-bayern-nagelsmann-muss-bayern-abwehr-nach-zaesur-im-sommer-radikal-umstrukturieren_id_13251682.html</link>
+						<description>
+							Im Sommer gibt es in der Defensive des FC Bayern einen radikalen Umbruch. Jerome Boateng und David Alaba verlassen den Klub. Auch Niklas Süles Zukunft ist noch ungeklärt. Wer darf unter Julian Nagelsmann in der Innenverteidigung ran? Die AZ checkt die Kandidaten.</description>
+						<category domain="">Bundesliga</category>
+						<pubDate>
+							Mon, 03 May 2021 09:14:04 +0200</pubDate>
+						<guid isPermaLink="false">aid_13251682</guid>
+						<dc:creator>Abendzeitung</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13253266/imago1002362915h.jpg?im=Crop%3D%2827%2C0%2C3436%2C2291%29%3BResize%3D%28120%29&amp;hash=60f9dd61a071965a030c2c15380fe7013802302e3fb4e4a1de54ef38287fa2f5" />Im Sommer gibt es in der Defensive des FC Bayern einen radikalen Umbruch. Jerome Boateng und David Alaba verlassen den Klub. Auch Niklas Süles Zukunft ist noch ungeklärt. Wer darf unter Julian Nagelsmann in der Innenverteidigung ran? Die AZ checkt die Kandidaten.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Im Sommer gibt es in der Defensive des FC Bayern einen radikalen Umbruch. Jerome Boateng und David Alaba verlassen den Klub. Auch Niklas Süles Zukunft ist noch ungeklärt. Wer darf unter Julian Nagelsmann in der Innenverteidigung ran? Die AZ checkt die Kandidaten.]]></media:description>
+						<media:title>Zäsur in der Bayern-Abwehr - Nagelsmann muss im Sommer komplett umstrukturieren</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/bundesliga1/fc-bayern-nagelsmann-muss-bayern-abwehr-nach-zaesur-im-sommer-radikal-umstrukturieren_id_13251682.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Bundesliga, 29. Spieltag - Mainz vergibt diverse Chancen, Hertha erkämpft sich nach Quarantäne einen Punkt</title>
+						<link>https://www.focus.de/sport/fussball/bundesliga1/bundesliga-29-spieltag-fsv-mainz-05-gegen-hertha-bsc-im-live-ticker-erstes-spiel-nach-der-quarantaene_id_13255655.html</link>
+						<description>
+							Hertha BSC erkämpft sich beim Bundesliga-Nachholspiel gegen den FSV Mainz 05 einen Punkt. Nach der Corona-Quarantäne starten die Berliner wackelig, steigern sich aber im zweiten Durchgang und sammeln einen wichtigen Punkt im Abstiegskampf. Die Partie im Ticker-Protokoll.</description>
+						<category domain="">Bundesliga</category>
+						<pubDate>
+							Mon, 03 May 2021 13:58:40 +0200</pubDate>
+						<guid isPermaLink="false">aid_13255655</guid>
+						<dc:creator>mit dpa</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13258358/imago1002478040h.jpg?im=Crop%3D%280%2C0%2C2959%2C1972%29%3BResize%3D%28120%29&amp;hash=8c3ebc07321d0ae5039c35b77fbdc8b356cadd3e3572db7f8de6b2c9e5167032" />Hertha BSC erkämpft sich beim Bundesliga-Nachholspiel gegen den FSV Mainz 05 einen Punkt. Nach der Corona-Quarantäne starten die Berliner wackelig, steigern sich aber im zweiten Durchgang und sammeln einen wichtigen Punkt im Abstiegskampf. Die Partie im Ticker-Protokoll.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Hertha BSC erkämpft sich beim Bundesliga-Nachholspiel gegen den FSV Mainz 05 einen Punkt. Nach der Corona-Quarantäne starten die Berliner wackelig, steigern sich aber im zweiten Durchgang und sammeln einen wichtigen Punkt im Abstiegskampf. Die Partie im Ticker-Protokoll.]]></media:description>
+						<media:title>Bundesliga, 29. Spieltag - Mainz vergibt diverse Chancen, Hertha erkämpft sich nach Quarantäne einen Punkt</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/bundesliga1/bundesliga-29-spieltag-fsv-mainz-05-gegen-hertha-bsc-im-live-ticker-erstes-spiel-nach-der-quarantaene_id_13255655.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Bundesliga-Spielplan - Saison 2020/21: Bundesliga-Spielplan, Termine und Ergebnisse</title>
+						<link>https://www.focus.de/sport/fussball/bundesliga1/bundesliga-spielplan-2020-21-ergebnisse-termine-und-spielplan_id_10873624.html</link>
+						<description>
+							Bundesliga-Spielplan 2020/2021: Der FC Bayern wackelt zum Jahresbeginn, so rückt RB Leipzig vor der entscheidenden Phase am Rekordmeister heran. Dahinter entwickelt sich ein spannender Kampf um Europa. Schalke steht als erster Absteiger fest. Alle Spiele und Termine in der Übersicht.</description>
+						<category domain="">Bundesliga</category>
+						<pubDate>
+							Thu, 17 Sep 2020 10:59:00 +0200</pubDate>
+						<guid isPermaLink="false">aid_10873624</guid>
+						<dc:creator>FOCUS Online</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_10873252/imago40407642h.jpg?im=Crop%3D%280%2C2%2C4132%2C2754%29%3BResize%3D%28120%29&amp;hash=a3a9460a4bcf62270e3a125f1f2e044874cbf386c6e5d10b78e1a578e3a9876c" />Bundesliga-Spielplan 2020/2021: Der FC Bayern wackelt zum Jahresbeginn, so rückt RB Leipzig vor der entscheidenden Phase am Rekordmeister heran. Dahinter entwickelt sich ein spannender Kampf um Europa. Schalke steht als erster Absteiger fest. Alle Spiele und Termine in der Übersicht.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Bundesliga-Spielplan 2020/2021: Der FC Bayern wackelt zum Jahresbeginn, so rückt RB Leipzig vor der entscheidenden Phase am Rekordmeister heran. Dahinter entwickelt sich ein spannender Kampf um Europa. Schalke steht als erster Absteiger fest. Alle Spiele und Termine in der Übersicht.]]></media:description>
+						<media:title>Bundesliga-Spielplan - Saison 2020/21: Bundesliga-Spielplan, Termine und Ergebnisse</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/bundesliga1/bundesliga-spielplan-2020-21-ergebnisse-termine-und-spielplan_id_10873624.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Bundesliga im Live-Stream - So sehen Sie FSV Mainz 05 gegen Hertha BSC live im Internet</title>
+						<link>https://www.focus.de/sport/fussball/bundesliga1/bundesliga-im-live-stream-so-sehen-sie-fsv-mainz-05-gegen-hertha-bsc-live-im-internet_id_13257430.html</link>
+						<description>
+							FSV Mainz 05 gegen Hertha BSC im Live-Stream: Hertha BSC startet am Montag beim FSV Mainz 05 mit dem Quarantäne-Handicap in die letzte Saisonphase. Das komplette Team des Berliner Fußball-Bundesligisten ist nach fünf Corona-Fällen und 14 Tage häusliche Isolation gerade erst ins Mannschaftstraining zurückgekehrt. So sehen Sie das Spiel live im Internet. </description>
+						<category domain="">Bundesliga</category>
+						<pubDate>
+							Mon, 03 May 2021 15:51:30 +0200</pubDate>
+						<guid isPermaLink="false">aid_13257430</guid>
+						<dc:creator>dpa</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13257581/hertha-bsc-fsv-mainz-67711741.jpg?im=Crop%3D%280%2C0%2C3356%2C2236%29%3BResize%3D%28120%29&amp;hash=39390b910a956f6c835c4135b2f6c5eab48077bb4dd19bbb71232ca3ccdeaf06" />FSV Mainz 05 gegen Hertha BSC im Live-Stream: Hertha BSC startet am Montag beim FSV Mainz 05 mit dem Quarantäne-Handicap in die letzte Saisonphase. Das komplette Team des Berliner Fußball-Bundesligisten ist nach fünf Corona-Fällen und 14 Tage häusliche Isolation gerade erst ins Mannschaftstraining zurückgekehrt. So sehen Sie das Spiel live im Internet. ]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[FSV Mainz 05 gegen Hertha BSC im Live-Stream: Hertha BSC startet am Montag beim FSV Mainz 05 mit dem Quarantäne-Handicap in die letzte Saisonphase. Das komplette Team des Berliner Fußball-Bundesligisten ist nach fünf Corona-Fällen und 14 Tage häusliche Isolation gerade erst ins Mannschaftstraining zurückgekehrt. So sehen Sie das Spiel live im Internet. ]]></media:description>
+						<media:title>Bundesliga im Live-Stream - So sehen Sie FSV Mainz 05 gegen Hertha BSC live im Internet</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/bundesliga1/bundesliga-im-live-stream-so-sehen-sie-fsv-mainz-05-gegen-hertha-bsc-live-im-internet_id_13257430.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Kommentar - Schlimmer geht immer: DFB-Spitze benötigt nach Nazi-Vergleich kompletten Neuaufbau</title>
+						<link>https://www.focus.de/sport/fussball/kommentar-schlimmer-geht-immer-dfb-spitze-benoetigt-nach-nazi-vergleich-kompletten-neuaufbau_id_13238964.html</link>
+						<description>
+							Der DFB befindet sich weiter im Sinkflug. Nicht nur, was die Leistungen der Nationalmannschaft betrifft. Auch die Verbandsoberen geben ein schlechtes Bild ab. Allen voran DFB-Präsident Fritz Keller mit seinem üblen Nazi-Vergleich.Von FOCUS-Online-Redakteur Dirk Adam</description>
+						<category domain="">Fußball</category>
+						<pubDate>
+							Wed, 28 Apr 2021 09:25:45 +0200</pubDate>
+						<guid isPermaLink="false">aid_13238964</guid>
+						<dc:creator>Von FOCUS-Online-Redakteur Dirk Adam</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/regional/nordrhein-westfalen/id_13238010/fritz-keller-praesident-des-deutschen-fussball-bundes-dfb-..jpg?im=Crop%3D%280%2C99%2C2048%2C1365%29%3BResize%3D%28120%29&amp;hash=ed93f647e2cd6eac1cf10728581be54f1820163e697071ae19d5477725786f82" />Der DFB befindet sich weiter im Sinkflug. Nicht nur, was die Leistungen der Nationalmannschaft betrifft. Auch die Verbandsoberen geben ein schlechtes Bild ab. Allen voran DFB-Präsident Fritz Keller mit seinem üblen Nazi-Vergleich.Von FOCUS-Online-Redakteur Dirk Adam]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Der DFB befindet sich weiter im Sinkflug. Nicht nur, was die Leistungen der Nationalmannschaft betrifft. Auch die Verbandsoberen geben ein schlechtes Bild ab. Allen voran DFB-Präsident Fritz Keller mit seinem üblen Nazi-Vergleich.Von FOCUS-Online-Redakteur Dirk Adam]]></media:description>
+						<media:title>Kommentar - Schlimmer geht immer: DFB-Spitze benötigt nach Nazi-Vergleich kompletten Neuaufbau</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/kommentar-schlimmer-geht-immer-dfb-spitze-benoetigt-nach-nazi-vergleich-kompletten-neuaufbau_id_13238964.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Präsident Keller &amp;#034;am Ende&amp;#034; - Matthäus &amp;#034;schämt sich&amp;#034; für Verbandsspitze und fordert Rummenigge als DFB-Chef</title>
+						<link>https://www.focus.de/sport/fussball/praesident-keller-am-ende-matthaeus-schaemt-sich-fuer-verbandsspitze-und-fordert-rummenigge-als-dfb-chef_id_13257147.html</link>
+						<description>
+							Lothar Matthäus bringt in der schwelenden DFB-Führungskrise Karl-Heinz Rummenigge als Nachfolger von Präsident Fritz Keller ins Gespräch. Es werde Zeit, &#034;dass der größte Fußball-Verband der Welt von jemandem angeführt wird, der aus dem Fußball kommt.&#034;</description>
+						<category domain="">Fußball</category>
+						<pubDate>
+							Mon, 03 May 2021 15:07:23 +0200</pubDate>
+						<guid isPermaLink="false">aid_13257147</guid>
+						<dc:creator>mit dpa</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13232175/imago0046634471h.jpg?im=Crop%3D%280%2C0%2C3464%2C2309%29%3BResize%3D%28120%29&amp;hash=3b05877d6dbb4be92c8e3ef18efa396d90e23c0ad7b2397d79164907b7a4e5ea" />Lothar Matthäus bringt in der schwelenden DFB-Führungskrise Karl-Heinz Rummenigge als Nachfolger von Präsident Fritz Keller ins Gespräch. Es werde Zeit, "dass der größte Fußball-Verband der Welt von jemandem angeführt wird, der aus dem Fußball kommt."]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Lothar Matthäus bringt in der schwelenden DFB-Führungskrise Karl-Heinz Rummenigge als Nachfolger von Präsident Fritz Keller ins Gespräch. Es werde Zeit, "dass der größte Fußball-Verband der Welt von jemandem angeführt wird, der aus dem Fußball kommt."]]></media:description>
+						<media:title>Präsident Keller &#034;am Ende&#034; - Matthäus &#034;schämt sich&#034; für Verbandsspitze und fordert Rummenigge als DFB-Chef</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/praesident-keller-am-ende-matthaeus-schaemt-sich-fuer-verbandsspitze-und-fordert-rummenigge-als-dfb-chef_id_13257147.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>&amp;#034;Jetzt ist auch mal Schluss&amp;#034; - Red-Bull-Berater Marko schimpft über größtes Übel der Formel 1</title>
+						<link>https://www.focus.de/sport/formel1/tracklimits-red-bull-berater-marko-schimpft-auf-groesstes-uebel-der-formel-1_id_13254525.html</link>
+						<description>
+							Max Verstappen verliert in drei Formel-1-Rennen der Saison 2021 einen Sieg, eine Pole Position und eine schnellste Runde wegen des leidigen Themas Tracklimits. Nach dem Großen Preis von Portugal plädiert Red-Bull-Berater Helmut Marko vehement für eine Änderung der Regeln.</description>
+						<category domain="">Formel 1</category>
+						<pubDate>
+							Sun, 02 May 2021 19:15:13 +0200</pubDate>
+						<guid isPermaLink="false">aid_13254525</guid>
+						<dc:creator>Motorsport Total</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/sport/formel1/id_13254396/lewis-hamiltons-ueberholmanoever-gegen-max-verstappen-in-runde-11.jpg?im=Crop%3D%280%2C0%2C600%2C400%29%3BResize%3D%28120%29&amp;hash=499dfb3a23db5eeeb4b6b8d186eaa75546d566f8ad19486db201d069fa8735a8" />Max Verstappen verliert in drei Formel-1-Rennen der Saison 2021 einen Sieg, eine Pole Position und eine schnellste Runde wegen des leidigen Themas Tracklimits. Nach dem Großen Preis von Portugal plädiert Red-Bull-Berater Helmut Marko vehement für eine Änderung der Regeln.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Max Verstappen verliert in drei Formel-1-Rennen der Saison 2021 einen Sieg, eine Pole Position und eine schnellste Runde wegen des leidigen Themas Tracklimits. Nach dem Großen Preis von Portugal plädiert Red-Bull-Berater Helmut Marko vehement für eine Änderung der Regeln.]]></media:description>
+						<media:title>&#034;Jetzt ist auch mal Schluss&#034; - Red-Bull-Berater Marko schimpft über größtes Übel der Formel 1</media:title>
+						<media:player url="https://www.focus.de/sport/formel1/tracklimits-red-bull-berater-marko-schimpft-auf-groesstes-uebel-der-formel-1_id_13254525.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Sein Vertrag läuft aus - &amp;#034;HSV-Fan&amp;#034; Baumgart heißer Favorit auf Thioune-Nachfolge - Hannover will ihn auch</title>
+						<link>https://www.focus.de/sport/fussball/bundesliga2/sein-vertrag-laeuft-aus-hsv-fan-baumgart-der-favorit-auf-thioune-nachfolge-aber-auch-hannover-will-ihn_id_13256492.html</link>
+						<description>
+							Nach dem Aus für Daniel Thioune wenige Spieltage vor dem Saisonende ist der Hamburger SV auf der Suche nach einem neuen Trainer für die kommende Spielzeit. Steffen Baumgart scheint dabei der Favorit zu sein. Er trägt die Raute im Herzen, sein Vertrag in Paderborn endet.</description>
+						<category domain="">2. Bundesliga</category>
+						<pubDate>
+							Mon, 03 May 2021 13:00:15 +0200</pubDate>
+						<guid isPermaLink="false">aid_13256492</guid>
+						<dc:creator>Hamburger Morgenpost HSV</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13256591/imago0048550944h.jpg?im=Crop%3D%280%2C0%2C3464%2C2309%29%3BResize%3D%28120%29&amp;hash=f0d49deba7014f5952da621bb840fda198e52c99f02273ee0b8d14917cc9a034" />Nach dem Aus für Daniel Thioune wenige Spieltage vor dem Saisonende ist der Hamburger SV auf der Suche nach einem neuen Trainer für die kommende Spielzeit. Steffen Baumgart scheint dabei der Favorit zu sein. Er trägt die Raute im Herzen, sein Vertrag in Paderborn endet.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Nach dem Aus für Daniel Thioune wenige Spieltage vor dem Saisonende ist der Hamburger SV auf der Suche nach einem neuen Trainer für die kommende Spielzeit. Steffen Baumgart scheint dabei der Favorit zu sein. Er trägt die Raute im Herzen, sein Vertrag in Paderborn endet.]]></media:description>
+						<media:title>Sein Vertrag läuft aus - &#034;HSV-Fan&#034; Baumgart heißer Favorit auf Thioune-Nachfolge - Hannover will ihn auch</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/bundesliga2/sein-vertrag-laeuft-aus-hsv-fan-baumgart-der-favorit-auf-thioune-nachfolge-aber-auch-hannover-will-ihn_id_13256492.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Trainer-Knall - HSV entlässt Thioune: Vereinslegende Hrubesch soll Aufstieg retten</title>
+						<link>https://www.focus.de/sport/fussball/bundesliga2/trainer-knall-hsv-entlaesst-thioune-vereinslegende-hrubesch-soll-aufstieg-retten_id_13255358.html</link>
+						<description>
+							Der Hamburger SV trennt sich mit sofortiger Wirkung von Trainer Daniel Thioune. Das hat der Verein bestätigt. Vereinslegende Horst Hrubesch soll den Aufstieg des HSV in die Bundesliga retten. Nach zuletzt schwachen Ergebnissen fiel der Klub auf den Relegationsplatz zurück.</description>
+						<category domain="">2. Bundesliga</category>
+						<pubDate>
+							Mon, 03 May 2021 09:57:41 +0200</pubDate>
+						<guid isPermaLink="false">aid_13255358</guid>
+						<dc:creator>FOCUS Online</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/regional/hamburg/id_13247121/hamburgs-trainer-daniel-thioune-geht-vor-dem-spiel-zum-interview..jpg?im=Crop%3D%2847%2C0%2C1953%2C1302%29%3BResize%3D%28120%29&amp;hash=050fe38f8db4dcadf28c0694b83d4a6470e327699ca0f566771237e79148d912" />Der Hamburger SV trennt sich mit sofortiger Wirkung von Trainer Daniel Thioune. Das hat der Verein bestätigt. Vereinslegende Horst Hrubesch soll den Aufstieg des HSV in die Bundesliga retten. Nach zuletzt schwachen Ergebnissen fiel der Klub auf den Relegationsplatz zurück.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Der Hamburger SV trennt sich mit sofortiger Wirkung von Trainer Daniel Thioune. Das hat der Verein bestätigt. Vereinslegende Horst Hrubesch soll den Aufstieg des HSV in die Bundesliga retten. Nach zuletzt schwachen Ergebnissen fiel der Klub auf den Relegationsplatz zurück.]]></media:description>
+						<media:title>Trainer-Knall - HSV entlässt Thioune: Vereinslegende Hrubesch soll Aufstieg retten</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/bundesliga2/trainer-knall-hsv-entlaesst-thioune-vereinslegende-hrubesch-soll-aufstieg-retten_id_13255358.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>FC Bayern - Lewandowskis Abschiedsszenario: Dortmunds Haaland macht Bayern-Abgang möglich</title>
+						<link>https://www.focus.de/sport/fussball/fc-bayern-lewandowskis-abschiedsszenario-dortmunds-haaland-macht-bayern-abgang-moeglich_id_13255042.html</link>
+						<description>
+							Robert Lewandowski jagt aktuell den Tor-Rekord von Gerd Müller in der Bundesliga. Doch wie lange geht der Stürmer noch auf Torejagd für den FC Bayern? Berater Pini Zahavi eröffnet den Poker. Im Abschiedsszenario spielt auch Dortmunds Erling Haaland eine wichtige Rolle.</description>
+						<category domain="">Fußball</category>
+						<pubDate>
+							Mon, 03 May 2021 08:10:11 +0200</pubDate>
+						<guid isPermaLink="false">aid_13255042</guid>
+						<dc:creator>Abendzeitung</dc:creator>
+						<content:encoded>
+		                            <![CDATA[<img src="https://p6.focus.de/img/fotos/id_13255302/imago1000559413h.jpg?im=Crop%3D%280%2C42%2C3071%2C2047%29%3BResize%3D%28120%29&amp;hash=7a6389a961caa631ac1905f2d276b66582ecce05bdc3d0c6faad8fad453d9dc7" />Robert Lewandowski jagt aktuell den Tor-Rekord von Gerd Müller in der Bundesliga. Doch wie lange geht der Stürmer noch auf Torejagd für den FC Bayern? Berater Pini Zahavi eröffnet den Poker. Im Abschiedsszenario spielt auch Dortmunds Erling Haaland eine wichtige Rolle.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2021</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Robert Lewandowski jagt aktuell den Tor-Rekord von Gerd Müller in der Bundesliga. Doch wie lange geht der Stürmer noch auf Torejagd für den FC Bayern? Berater Pini Zahavi eröffnet den Poker. Im Abschiedsszenario spielt auch Dortmunds Erling Haaland eine wichtige Rolle.]]></media:description>
+						<media:title>FC Bayern - Lewandowskis Abschiedsszenario: Dortmunds Haaland macht Bayern-Abgang möglich</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/fc-bayern-lewandowskis-abschiedsszenario-dortmunds-haaland-macht-bayern-abgang-moeglich_id_13255042.html" width="990" height="600" />
+						</item>
+			</channel>
+</rss>

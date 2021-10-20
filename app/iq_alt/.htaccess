@@ -1,0 +1,8 @@
+# AuthType Basic
+# AuthName "annalect AdCheck"
+# AuthUserFile /var/www/html/.htpasswd
+# Require valid-user
+
+#RewriteEngine On
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^([^\.]+)$ $1.php [NC,L]

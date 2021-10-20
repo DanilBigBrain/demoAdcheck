@@ -1,0 +1,421 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:media="http://search.yahoo.com/mrss/" version="2.0"
+	 xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>
+			FOCUS Online</title>
+		<link>https://rss.focus.de/</link>
+		<description>
+			FOCUS Online - minutenaktuelle Nachrichten und Service-Informationen.</description>
+		<image>
+			<url>https://p5.focus.de/fol/pics/fol/logo_125x40.png</url>
+			<title>
+				FOCUS Online</title>
+			<link>
+				https://rss.focus.de/</link>
+		</image>
+		<lastBuildDate>Mon, 02 Nov 2020 08:57:27 +0100</lastBuildDate>
+		<atom:link href="https://rss.focus.de/" rel="self" type="application/rss+xml" />
+		<item>
+						<title>Immer mehr Intensivpatienten - Mediziner warnen: &amp;#034;In einigen Bundesländern nicht mehr viel Spielraum&amp;#034;</title>
+						<link>https://www.focus.de/gesundheit/coronavirus/immer-mehr-intensivpatienten-mediziner-warnen-in-einigen-bundeslaendern-nicht-mehr-viel-spielraum_id_12609573.html</link>
+						<description>
+							Die Zahl der Covid-19-Patienten, die auf Intensivstationen behandelt werden müssen, steigt dramatisch an. Mediziner warnen nun vor einem Krankenhaus-Kollaps. Die Kliniken müssten sich auf einen neuen Höchststand an Intensivpatienten einstellen.</description>
+						<category domain="">Coronavirus</category>
+						<pubDate>
+							Mon, 02 Nov 2020 08:57:27 +0100</pubDate>
+						<guid isPermaLink="false">aid_12609573</guid>
+						<dc:creator>dpa</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12606081/3822617695-cv3_2-w120-q72-p4/5fa2b8002748c1d6.jpg" />Die Zahl der Covid-19-Patienten, die auf Intensivstationen behandelt werden müssen, steigt dramatisch an. Mediziner warnen nun vor einem Krankenhaus-Kollaps. Die Kliniken müssten sich auf einen neuen Höchststand an Intensivpatienten einstellen.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Die Zahl der Covid-19-Patienten, die auf Intensivstationen behandelt werden müssen, steigt dramatisch an. Mediziner warnen nun vor einem Krankenhaus-Kollaps. Die Kliniken müssten sich auf einen neuen Höchststand an Intensivpatienten einstellen.]]></media:description>
+						<media:title>Immer mehr Intensivpatienten - Mediziner warnen: &#034;In einigen Bundesländern nicht mehr viel Spielraum&#034;</media:title>
+						<media:player url="https://www.focus.de/gesundheit/coronavirus/immer-mehr-intensivpatienten-mediziner-warnen-in-einigen-bundeslaendern-nicht-mehr-viel-spielraum_id_12609573.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>&amp;#034;Ständige Vertretung&amp;#034; - Kein Hausverbot für Merkel! Warum legendäre Polit-Kneipe sich umentschieden hat</title>
+						<link>https://www.focus.de/politik/deutschland/kein-hausverbot-fuer-merkel-warum-legendaere-polit-kneipe-sich-umentschieden-hat_id_12606606.html</link>
+						<description>
+							Wegen des anstehenden Lockdowns sind viele Wirte wütend. Die Betreiber der Berliner Kneipe StäV setzen daher nun ein Zeichen - und erteilen den verantwortlichen Politikern deshalb nun Hausverbot.</description>
+						<category domain="">Deutschland</category>
+						<pubDate>
+							Mon, 02 Nov 2020 08:50:28 +0100</pubDate>
+						<guid isPermaLink="false">aid_12606606</guid>
+						<dc:creator>dpa</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12608038/153261817-cv3_2-w120-q72-p4/angela-merkel-in-str-56589028.jpg" />Wegen des anstehenden Lockdowns sind viele Wirte wütend. Die Betreiber der Berliner Kneipe StäV setzen daher nun ein Zeichen - und erteilen den verantwortlichen Politikern deshalb nun Hausverbot.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Wegen des anstehenden Lockdowns sind viele Wirte wütend. Die Betreiber der Berliner Kneipe StäV setzen daher nun ein Zeichen - und erteilen den verantwortlichen Politikern deshalb nun Hausverbot.]]></media:description>
+						<media:title>&#034;Ständige Vertretung&#034; - Kein Hausverbot für Merkel! Warum legendäre Polit-Kneipe sich umentschieden hat</media:title>
+						<media:player url="https://www.focus.de/politik/deutschland/kein-hausverbot-fuer-merkel-warum-legendaere-polit-kneipe-sich-umentschieden-hat_id_12606606.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Aldi im News-Ticker - Tierschützer feiern Durchbruch: Aldi macht bei großer Initiative für Masthühner mit</title>
+						<link>https://www.focus.de/finanzen/news/unternehmen/aldi-im-news-ticker-aldi-macht-bei-masthuhn-initiative-mit-tierschuetzer-feiern-durchbruch_id_12483607.html</link>
+						<description>
+							Nachrichten zu Aldi Süd und Aldi Nord im News-Ticker von FOCUS Online: Die Discounter sind für den einen oder anderen schon längst das Geschäft der Wahl. Was die Unternehmen ändern, welche Produkte sich lohnen oder zurückgerufen wer den - all das fasst FOCUS Online hier für Sie zusammen.</description>
+						<category domain="">Unternehmen</category>
+						<pubDate>
+							Mon, 02 Nov 2020 08:16:54 +0100</pubDate>
+						<guid isPermaLink="false">aid_12483607</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12589748/2162617539-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-201027-99-103774-large-4-3.jpg" />Nachrichten zu Aldi Süd und Aldi Nord im News-Ticker von FOCUS Online: Die Discounter sind für den einen oder anderen schon längst das Geschäft der Wahl. Was die Unternehmen ändern, welche Produkte sich lohnen oder zurückgerufen wer den - all das fasst FOCUS Online hier für Sie zusammen.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Nachrichten zu Aldi Süd und Aldi Nord im News-Ticker von FOCUS Online: Die Discounter sind für den einen oder anderen schon längst das Geschäft der Wahl. Was die Unternehmen ändern, welche Produkte sich lohnen oder zurückgerufen wer den - all das fasst FOCUS Online hier für Sie zusammen.]]></media:description>
+						<media:title>Aldi im News-Ticker - Tierschützer feiern Durchbruch: Aldi macht bei großer Initiative für Masthühner mit</media:title>
+						<media:player url="https://www.focus.de/finanzen/news/unternehmen/aldi-im-news-ticker-aldi-macht-bei-masthuhn-initiative-mit-tierschuetzer-feiern-durchbruch_id_12483607.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Referent beim Finanztag: bevestor-Produktexperte Michael Irsfeld - Mit 11 Fragen zur richtigen Aktienquote: Roboter kümmert sich um Ihr Geld</title>
+						<link>https://www.focus.de/finanzen/boerse/geldanlage/referent-beim-finanztag-bevestor-produktexperte-michael-irsfeld-mit-11-fragen-zur-richtigen-aktienquote-roboter-kuemmert-sich-um-ihr-geld_id_12605592.html</link>
+						<description>
+							Digitale Geldanlage - diese Möglichkeit bieten die Sparkassen mit bevestor an. FOCUS Online sprach mit Michael Irsfeld, Produktspezialist Vermögensverwaltung und Dachfonds, über die Risikobereitschaft der Kunden und die Chancen nachhaltiger Produkte.  Von FOCUS-Online-Redakteur Volker Tietz</description>
+						<category domain="">Geldanlage</category>
+						<pubDate>
+							Mon, 02 Nov 2020 08:07:06 +0100</pubDate>
+						<guid isPermaLink="false">aid_12605592</guid>
+						<dc:creator>Von FOCUS-Online-Redakteur Volker Tietz</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12605588/0662619205-cv3_2-w120-q72-p4/robo-advisor-bevestor-fin-vt.jpg" />Digitale Geldanlage - diese Möglichkeit bieten die Sparkassen mit bevestor an. FOCUS Online sprach mit Michael Irsfeld, Produktspezialist Vermögensverwaltung und Dachfonds, über die Risikobereitschaft der Kunden und die Chancen nachhaltiger Produkte.  Von FOCUS-Online-Redakteur Volker Tietz]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Digitale Geldanlage - diese Möglichkeit bieten die Sparkassen mit bevestor an. FOCUS Online sprach mit Michael Irsfeld, Produktspezialist Vermögensverwaltung und Dachfonds, über die Risikobereitschaft der Kunden und die Chancen nachhaltiger Produkte.  Von FOCUS-Online-Redakteur Volker Tietz]]></media:description>
+						<media:title>Referent beim Finanztag: bevestor-Produktexperte Michael Irsfeld - Mit 11 Fragen zur richtigen Aktienquote: Roboter kümmert sich um Ihr Geld</media:title>
+						<media:player url="https://www.focus.de/finanzen/boerse/geldanlage/referent-beim-finanztag-bevestor-produktexperte-michael-irsfeld-mit-11-fragen-zur-richtigen-aktienquote-roboter-kuemmert-sich-um-ihr-geld_id_12605592.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Erschreckende Szene - Mann mit Macron-Maske wird in Berlin an Strick herumgeführt und gedemütigt</title>
+						<link>https://www.focus.de/panorama/welt/erschreckende-szene-mann-mit-macron-maske-wird-an-strick-herumgefuehrt-und-gedemuetigt_id_12608793.html</link>
+						<description>
+							Erschreckende Szene in Berlin: An einem belebten Samstagnachmittag im Bezirk Neukölln zieht ein arabisch sprechender junger Mann einen „Gefangenen“ an einem Strick hinter sich her. Das Opfer trägt eine blonde Perücke und eine Emmanuel-Macron-Maske. Was steckt dahinter?</description>
+						<category domain="">Aus aller Welt</category>
+						<pubDate>
+							Mon, 02 Nov 2020 08:05:15 +0100</pubDate>
+						<guid isPermaLink="false">aid_12608793</guid>
+						<dc:creator>mit dpa</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12608802/9402613218-cv3_2-w120-q72-p4/yallah.jpg" />Erschreckende Szene in Berlin: An einem belebten Samstagnachmittag im Bezirk Neukölln zieht ein arabisch sprechender junger Mann einen „Gefangenen“ an einem Strick hinter sich her. Das Opfer trägt eine blonde Perücke und eine Emmanuel-Macron-Maske. Was steckt dahinter?]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Erschreckende Szene in Berlin: An einem belebten Samstagnachmittag im Bezirk Neukölln zieht ein arabisch sprechender junger Mann einen „Gefangenen“ an einem Strick hinter sich her. Das Opfer trägt eine blonde Perücke und eine Emmanuel-Macron-Maske. Was steckt dahinter?]]></media:description>
+						<media:title>Erschreckende Szene - Mann mit Macron-Maske wird in Berlin an Strick herumgeführt und gedemütigt</media:title>
+						<media:player url="https://www.focus.de/panorama/welt/erschreckende-szene-mann-mit-macron-maske-wird-an-strick-herumgefuehrt-und-gedemuetigt_id_12608793.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>&amp;#034;Dürfen Mobster-Methoden nicht hinnehmen&amp;#034; - Nord Stream 2: Grünen-Politiker wettert gegen USA und will Konten sperren lassen</title>
+						<link>https://www.focus.de/finanzen/boerse/nord-stream-2-gruenen-politiker-wettert-gegen-usa-und-will-konten-sperren_id_12607918.html</link>
+						<description>
+							Im Streit im Nord Stream 2 sind die Fronten zwischen Deutschland und den USA verhärtet. Ein Film dokumentiert nun den Konflikt um die Pipeline. Darum kommt auch der Grünen-Außenpolitiker Jürgen Trittin zu Wort - mit einer brisanten Forderung.</description>
+						<category domain="">Börse</category>
+						<pubDate>
+							Mon, 02 Nov 2020 07:55:41 +0100</pubDate>
+						<guid isPermaLink="false">aid_12607918</guid>
+						<dc:creator>dpa</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12516867/0772614412-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-201007-99-860426-large-4-3.jpg" />Im Streit im Nord Stream 2 sind die Fronten zwischen Deutschland und den USA verhärtet. Ein Film dokumentiert nun den Konflikt um die Pipeline. Darum kommt auch der Grünen-Außenpolitiker Jürgen Trittin zu Wort - mit einer brisanten Forderung.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Im Streit im Nord Stream 2 sind die Fronten zwischen Deutschland und den USA verhärtet. Ein Film dokumentiert nun den Konflikt um die Pipeline. Darum kommt auch der Grünen-Außenpolitiker Jürgen Trittin zu Wort - mit einer brisanten Forderung.]]></media:description>
+						<media:title>&#034;Dürfen Mobster-Methoden nicht hinnehmen&#034; - Nord Stream 2: Grünen-Politiker wettert gegen USA und will Konten sperren lassen</media:title>
+						<media:player url="https://www.focus.de/finanzen/boerse/nord-stream-2-gruenen-politiker-wettert-gegen-usa-und-will-konten-sperren_id_12607918.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Kind im sechsten Monat verloren - Nach tragischer Fehlgeburt: Chrissy Teigen zeigt Tattoo für ihren toten Sohn</title>
+						<link>https://www.focus.de/panorama/welt/kind-im-sechsten-monat-verloren-kind-im-sechsten-monat-verloren_id_12609182.html</link>
+						<description>
+							Wenige Wochen nach ihrer tragischen Fehlgeburt enthüllt Model Chrissy Teigen ein Tattoo für ihren Sohn Jack.</description>
+						<category domain="">Aus aller Welt</category>
+						<pubDate>
+							Mon, 02 Nov 2020 07:53:52 +0100</pubDate>
+						<guid isPermaLink="false">aid_12609182</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/vermischtes/crop12608365/4502612101-cv3_2-w120-q72-p4/compressed-c681eb3c-a470-4555-af07-6c399dbbd962.jpg" />Wenige Wochen nach ihrer tragischen Fehlgeburt enthüllt Model Chrissy Teigen ein Tattoo für ihren Sohn Jack.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Wenige Wochen nach ihrer tragischen Fehlgeburt enthüllt Model Chrissy Teigen ein Tattoo für ihren Sohn Jack.]]></media:description>
+						<media:title>Kind im sechsten Monat verloren - Nach tragischer Fehlgeburt: Chrissy Teigen zeigt Tattoo für ihren toten Sohn</media:title>
+						<media:player url="https://www.focus.de/panorama/welt/kind-im-sechsten-monat-verloren-kind-im-sechsten-monat-verloren_id_12609182.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Staaten brauchen Geld - Zum ersten Mal seit der Finanzkrise schrumpfen die Goldreserven der Notenbanken</title>
+						<link>https://www.focus.de/finanzen/boerse/gold/staaten-brauchen-geld-notenbank-muss-goldreserven-verkaufen-um-lira-zu-stuetzen_id_12603007.html</link>
+						<description>
+							Der Goldpreis ist stark gestiegen - davon wollen einige Zentralbanken profitieren. Sie verkauften soviel Gold wie lange nicht mehr. Mit dabei die Türkei. Das Land braucht das Geld im Kampf gegen die Lira-Krise.Von Autor Christoph Sackmann</description>
+						<category domain="">Gold</category>
+						<pubDate>
+							Mon, 02 Nov 2020 07:49:55 +0100</pubDate>
+						<guid isPermaLink="false">aid_12603007</guid>
+						<dc:creator>Von Autor Christoph Sackmann</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop11879773/735261869-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-200414-99-691947-large-4-3.jpg" />Der Goldpreis ist stark gestiegen - davon wollen einige Zentralbanken profitieren. Sie verkauften soviel Gold wie lange nicht mehr. Mit dabei die Türkei. Das Land braucht das Geld im Kampf gegen die Lira-Krise.Von Autor Christoph Sackmann]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Der Goldpreis ist stark gestiegen - davon wollen einige Zentralbanken profitieren. Sie verkauften soviel Gold wie lange nicht mehr. Mit dabei die Türkei. Das Land braucht das Geld im Kampf gegen die Lira-Krise.Von Autor Christoph Sackmann]]></media:description>
+						<media:title>Staaten brauchen Geld - Zum ersten Mal seit der Finanzkrise schrumpfen die Goldreserven der Notenbanken</media:title>
+						<media:player url="https://www.focus.de/finanzen/boerse/gold/staaten-brauchen-geld-notenbank-muss-goldreserven-verkaufen-um-lira-zu-stuetzen_id_12603007.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Bomber wird 75 Jahre alt - &amp;#034;Gerd schläft seinem Ende entgegen&amp;#034;: Der traurige Zustand des &amp;#034;Bombers der Nation&amp;#034;</title>
+						<link>https://www.focus.de/sport/fussball/bomber-wird-75-jahre-alt-gerd-schlaeft-seinem-ende-entgegen-uschi-mueller-ueber-tragischen-zustand-ihres-mannes_id_12609357.html</link>
+						<description>
+							Gerd Müller feiert am Dienstag seinen 75. Geburtstag - im Pflegeheim. Uschi Müller, die langjährige Frau des Bombers, spricht über die unheilbare Demenzkrankheit ihres Mannes. Dessen Zustand verschlechtere sich zunehmend, er könne nicht einmal mehr essen.</description>
+						<category domain="">Fußball</category>
+						<pubDate>
+							Mon, 02 Nov 2020 07:49:00 +0100</pubDate>
+						<guid isPermaLink="false">aid_12609357</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12609402/9532615094-cv3_2-w120-q72-p4/imago0036200003h.jpg" />Gerd Müller feiert am Dienstag seinen 75. Geburtstag - im Pflegeheim. Uschi Müller, die langjährige Frau des Bombers, spricht über die unheilbare Demenzkrankheit ihres Mannes. Dessen Zustand verschlechtere sich zunehmend, er könne nicht einmal mehr essen.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Gerd Müller feiert am Dienstag seinen 75. Geburtstag - im Pflegeheim. Uschi Müller, die langjährige Frau des Bombers, spricht über die unheilbare Demenzkrankheit ihres Mannes. Dessen Zustand verschlechtere sich zunehmend, er könne nicht einmal mehr essen.]]></media:description>
+						<media:title>Bomber wird 75 Jahre alt - &#034;Gerd schläft seinem Ende entgegen&#034;: Der traurige Zustand des &#034;Bombers der Nation&#034;</media:title>
+						<media:player url="https://www.focus.de/sport/fussball/bomber-wird-75-jahre-alt-gerd-schlaeft-seinem-ende-entgegen-uschi-mueller-ueber-tragischen-zustand-ihres-mannes_id_12609357.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Bis 2030 - Audi-Chef Duesmann: Verbrenner wird bei uns fast komplett verschwinden</title>
+						<link>https://www.focus.de/finanzen/boerse/bis-2030-duesmann-verbrenner-wird-bei-uns-fast-komplett-verschwinden_id_12607096.html</link>
+						<description>
+							Audi-Chef Duesmann glaubt nicht, dass sich Wasserstoff im Automobil-Industrie durchsetzen wird. Die VW-Tochter setzt daher auf den E-Antrieb. Sein Anteil an der Produktion soll bis 2030 auf nahezu 100 Prozent steigen. Für den Erfolg des E-Autos sei jedoch ein Ausbau der Ladeinfrastruktur wichtig, stellt der Audi-Chef klar.</description>
+						<category domain="">Börse</category>
+						<pubDate>
+							Mon, 02 Nov 2020 07:48:14 +0100</pubDate>
+						<guid isPermaLink="false">aid_12607096</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12601165/5542613067-cv3_2-w120-q72-p4/urn-newsml-dpa-com-20090101-201030-99-142087-large-4-3.jpg" />Audi-Chef Duesmann glaubt nicht, dass sich Wasserstoff im Automobil-Industrie durchsetzen wird. Die VW-Tochter setzt daher auf den E-Antrieb. Sein Anteil an der Produktion soll bis 2030 auf nahezu 100 Prozent steigen. Für den Erfolg des E-Autos sei jedoch ein Ausbau der Ladeinfrastruktur wichtig, stellt der Audi-Chef klar.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Audi-Chef Duesmann glaubt nicht, dass sich Wasserstoff im Automobil-Industrie durchsetzen wird. Die VW-Tochter setzt daher auf den E-Antrieb. Sein Anteil an der Produktion soll bis 2030 auf nahezu 100 Prozent steigen. Für den Erfolg des E-Autos sei jedoch ein Ausbau der Ladeinfrastruktur wichtig, stellt der Audi-Chef klar.]]></media:description>
+						<media:title>Bis 2030 - Audi-Chef Duesmann: Verbrenner wird bei uns fast komplett verschwinden</media:title>
+						<media:player url="https://www.focus.de/finanzen/boerse/bis-2030-duesmann-verbrenner-wird-bei-uns-fast-komplett-verschwinden_id_12607096.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>TV-Kolumne „Das Supertalent“  - &amp;#034;Supertalent&amp;#034; an Halloween - und der größte Horror kommt aus der Jury</title>
+						<link>https://www.focus.de/kultur/kino_tv/focus-fernsehclub/tv-kolumne-das-supertalent-show-an-halloween-und-der-groesste-horror-kommt-aus-der-jury_id_12607002.html</link>
+						<description>
+							Eine Drag Queen mit Opernstimme, ein Pizza-Performer und Rüdiger, der schneller rechnen kann als ein Computer: Das sind die Highlights der Horrornacht bei „Das Supertalent“. Richtig gruselig aber wird es erst, als Papi Flex auftritt – ein Mann, der offenbar nichts als Gummiknochen im Körper hat.Von Focus Magazin-Autorin Beate Strobel</description>
+						<category domain="">FOCUS-Fernsehclub</category>
+						<pubDate>
+							Mon, 02 Nov 2020 07:39:55 +0100</pubDate>
+						<guid isPermaLink="false">aid_12607002</guid>
+						<dc:creator>Von Focus Magazin-Autorin Beate Strobel</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12606994/5792611807-cv3_2-w120-q72-p4/1724743.jpg" />Eine Drag Queen mit Opernstimme, ein Pizza-Performer und Rüdiger, der schneller rechnen kann als ein Computer: Das sind die Highlights der Horrornacht bei „Das Supertalent“. Richtig gruselig aber wird es erst, als Papi Flex auftritt – ein Mann, der offenbar nichts als Gummiknochen im Körper hat.Von Focus Magazin-Autorin Beate Strobel]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Eine Drag Queen mit Opernstimme, ein Pizza-Performer und Rüdiger, der schneller rechnen kann als ein Computer: Das sind die Highlights der Horrornacht bei „Das Supertalent“. Richtig gruselig aber wird es erst, als Papi Flex auftritt – ein Mann, der offenbar nichts als Gummiknochen im Körper hat.Von Focus Magazin-Autorin Beate Strobel]]></media:description>
+						<media:title>TV-Kolumne „Das Supertalent“  - &#034;Supertalent&#034; an Halloween - und der größte Horror kommt aus der Jury</media:title>
+						<media:player url="https://www.focus.de/kultur/kino_tv/focus-fernsehclub/tv-kolumne-das-supertalent-show-an-halloween-und-der-groesste-horror-kommt-aus-der-jury_id_12607002.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Großer Überblick - Ab heute gilt der Lockdown: Welche Regeln jetzt in Ihrem Bundesland gelten</title>
+						<link>https://www.focus.de/finanzen/recht/corona-regeln-im-november-lockdown-welche-regeln-jetzt-in-ihrem-bundesland-gelten_id_12601147.html</link>
+						<description>
+							Es wird ein langer und harter Corona-Winter. Wegen der rasant steigenden Infektionszahlen haben Bund und Länder gemeinsam einen &#034;Lockdown Light&#034; für den gesamten November beschlossen. Welche Corona-Regeln nun in Ihrem Bundesland gelten.</description>
+						<category domain="">Recht</category>
+						<pubDate>
+							Mon, 02 Nov 2020 07:30:08 +0100</pubDate>
+						<guid isPermaLink="false">aid_12601147</guid>
+						<dc:creator>mit Agenturmaterial</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12519456/1102611104-cv3_2-w120-q72-p4/petra1.jpg" />Es wird ein langer und harter Corona-Winter. Wegen der rasant steigenden Infektionszahlen haben Bund und Länder gemeinsam einen "Lockdown Light" für den gesamten November beschlossen. Welche Corona-Regeln nun in Ihrem Bundesland gelten.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Es wird ein langer und harter Corona-Winter. Wegen der rasant steigenden Infektionszahlen haben Bund und Länder gemeinsam einen "Lockdown Light" für den gesamten November beschlossen. Welche Corona-Regeln nun in Ihrem Bundesland gelten.]]></media:description>
+						<media:title>Großer Überblick - Ab heute gilt der Lockdown: Welche Regeln jetzt in Ihrem Bundesland gelten</media:title>
+						<media:player url="https://www.focus.de/finanzen/recht/corona-regeln-im-november-lockdown-welche-regeln-jetzt-in-ihrem-bundesland-gelten_id_12601147.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Drama in Baden-Württemberg - Wohnhaus in Nürtingen brennt- zwei Bewohner können nur noch tot geborgen werden</title>
+						<link>https://www.focus.de/panorama/welt/drama-in-baden-wuerttemberg-wohnhaus-in-nuertingen-brennt-zwei-bewohner-koennen-nur-noch-tot-geborgen-werden_id_12609365.html</link>
+						<description>
+							Zwei Leichen sind aus einem brennenden Mehrfamilienhaus im Landkreis Esslingen geborgen worden. </description>
+						<category domain="">Aus aller Welt</category>
+						<pubDate>
+							Mon, 02 Nov 2020 07:15:07 +0100</pubDate>
+						<guid isPermaLink="false">aid_12609365</guid>
+						<dc:creator>dpa</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12609364/12726140-cv3_2-w120-q72-p4/5fa2c40021436ea3.jpg" />Zwei Leichen sind aus einem brennenden Mehrfamilienhaus im Landkreis Esslingen geborgen worden. ]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Zwei Leichen sind aus einem brennenden Mehrfamilienhaus im Landkreis Esslingen geborgen worden. ]]></media:description>
+						<media:title>Drama in Baden-Württemberg - Wohnhaus in Nürtingen brennt- zwei Bewohner können nur noch tot geborgen werden</media:title>
+						<media:player url="https://www.focus.de/panorama/welt/drama-in-baden-wuerttemberg-wohnhaus-in-nuertingen-brennt-zwei-bewohner-koennen-nur-noch-tot-geborgen-werden_id_12609365.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Das „Sommerhaus der Stars“ im News-Ticker - „Wir wurden manipuliert“: Lisha überrascht mit scharfer Kritik an Bachelor Andrej</title>
+						<link>https://www.focus.de/kultur/kino_tv/sommerhaus-der-stars-im-news-ticker-lisha-ueberrascht-mit-scharfer-kritik-an-bachelor-andrej_id_12076710.html</link>
+						<description>
+							Kaum ist „Das Sommerhaus der Stars“ 2020 zuende, treffen die Sieger Caro und Andreas Robens bei &#034;Das große Wiedersehen&#034; auf ihre Mitstreite. Dabei kocht nicht nur der Bachelor-Beef wieder hoch, auch Kubi Özdemir will noch etwas loswerden. Alle News lesen Sie hier im News-Ticker von FOCUS Online.</description>
+						<category domain="">Kino &amp; TV</category>
+						<pubDate>
+							Mon, 02 Nov 2020 07:11:53 +0100</pubDate>
+						<guid isPermaLink="false">aid_12076710</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12608947/1642613715-cv3_2-w120-q72-p4/bildschirmfoto-2020-11-01-um-22.jpg" />Kaum ist „Das Sommerhaus der Stars“ 2020 zuende, treffen die Sieger Caro und Andreas Robens bei "Das große Wiedersehen" auf ihre Mitstreite. Dabei kocht nicht nur der Bachelor-Beef wieder hoch, auch Kubi Özdemir will noch etwas loswerden. Alle News lesen Sie hier im News-Ticker von FOCUS Online.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Kaum ist „Das Sommerhaus der Stars“ 2020 zuende, treffen die Sieger Caro und Andreas Robens bei "Das große Wiedersehen" auf ihre Mitstreite. Dabei kocht nicht nur der Bachelor-Beef wieder hoch, auch Kubi Özdemir will noch etwas loswerden. Alle News lesen Sie hier im News-Ticker von FOCUS Online.]]></media:description>
+						<media:title>Das „Sommerhaus der Stars“ im News-Ticker - „Wir wurden manipuliert“: Lisha überrascht mit scharfer Kritik an Bachelor Andrej</media:title>
+						<media:player url="https://www.focus.de/kultur/kino_tv/sommerhaus-der-stars-im-news-ticker-lisha-ueberrascht-mit-scharfer-kritik-an-bachelor-andrej_id_12076710.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>News zur Pandemie - Palmer geht in Tübingen den Schweden-Weg - fast 12.000 Neuinfektionen in Deutschland</title>
+						<link>https://www.focus.de/gesundheit/news/coronavirus-deutschland-palmer-geht-in-tuebingen-den-schweden-weg-fast-12-000-neuinfektionen_id_12459149.html</link>
+						<description>
+							Das Coronavirus wütet weiter. In Deutschland gilt ab Montag ein neuer Lockdown. In der Schweiz hat ein Kanton derweil den Ausnahmezustand ausgerufen. Alles Wichtige zum Coronavirus finden Sie hier im News-Ticker von FOCUS Online.</description>
+						<category domain="">News</category>
+						<pubDate>
+							Mon, 02 Nov 2020 07:02:27 +0100</pubDate>
+						<guid isPermaLink="false">aid_12459149</guid>
+						<dc:creator>mit Agenturmaterial</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop11368035/3102613485-cv3_2-w120-q72-p4/boris-palmer-59608920.jpg" />Das Coronavirus wütet weiter. In Deutschland gilt ab Montag ein neuer Lockdown. In der Schweiz hat ein Kanton derweil den Ausnahmezustand ausgerufen. Alles Wichtige zum Coronavirus finden Sie hier im News-Ticker von FOCUS Online.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Das Coronavirus wütet weiter. In Deutschland gilt ab Montag ein neuer Lockdown. In der Schweiz hat ein Kanton derweil den Ausnahmezustand ausgerufen. Alles Wichtige zum Coronavirus finden Sie hier im News-Ticker von FOCUS Online.]]></media:description>
+						<media:title>News zur Pandemie - Palmer geht in Tübingen den Schweden-Weg - fast 12.000 Neuinfektionen in Deutschland</media:title>
+						<media:player url="https://www.focus.de/gesundheit/news/coronavirus-deutschland-palmer-geht-in-tuebingen-den-schweden-weg-fast-12-000-neuinfektionen_id_12459149.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>US-Präsidentschaftswahl im Ticker - US-Wahl 2020: Trump könnte sich vor Endergebnis zum Wahlsieger erklären</title>
+						<link>https://www.focus.de/politik/ausland/us-praesidentschaftswahl-im-ticker-trump-koennte-sich-vor-endergebnis-zum-wahlsieger-erklaeren_id_12606704.html</link>
+						<description>
+							US-Wahl am Dienstag, 3. November 2020: Endspurt im Wahlkampf! US-Präsident Donald Trump kämpft mit allen Mitteln im Amt zu bleiben. Der demokratische Herausforderer Joe Biden liegt in den Umfragen vorne. Alle wichtigen Infos zur US-Wahl 2020 erfahren Sie hier im News-Ticker auf FOCUS Online.</description>
+						<category domain="">Ausland</category>
+						<pubDate>
+							Mon, 02 Nov 2020 06:36:35 +0100</pubDate>
+						<guid isPermaLink="false">aid_12606704</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[US-Wahl am Dienstag, 3. November 2020: Endspurt im Wahlkampf! US-Präsident Donald Trump kämpft mit allen Mitteln im Amt zu bleiben. Der demokratische Herausforderer Joe Biden liegt in den Umfragen vorne. Alle wichtigen Infos zur US-Wahl 2020 erfahren Sie hier im News-Ticker auf FOCUS Online.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[US-Wahl am Dienstag, 3. November 2020: Endspurt im Wahlkampf! US-Präsident Donald Trump kämpft mit allen Mitteln im Amt zu bleiben. Der demokratische Herausforderer Joe Biden liegt in den Umfragen vorne. Alle wichtigen Infos zur US-Wahl 2020 erfahren Sie hier im News-Ticker auf FOCUS Online.]]></media:description>
+						<media:title>US-Präsidentschaftswahl im Ticker - US-Wahl 2020: Trump könnte sich vor Endergebnis zum Wahlsieger erklären</media:title>
+						<media:player url="https://www.focus.de/politik/ausland/us-praesidentschaftswahl-im-ticker-trump-koennte-sich-vor-endergebnis-zum-wahlsieger-erklaeren_id_12606704.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Rechenbeispiel zur Wahl - Von wegen chancenlos: Wenn Trump diese Staaten gewinnt, bleibt er Präsident</title>
+						<link>https://www.focus.de/politik/ausland/us-wahl/rechenbeispiel-zur-wahl-diese-staaten-muss-trump-gewinnen-so-kommt-er-auf-die-noetigen-270-stimmen_id_12609128.html</link>
+						<description>
+							Außenseiter, Geheimfavorit, Umfragenverlierer. Wie man ihn auch nennen mag, Donald Trump ist bei der anstehenden US-Wahl laut aktuellen Umfragen weit von seiner Wiederwahl entfernt. Doch das muss nicht heißen, dass er keine Chance hat. Ein Rechenbeispiel zeigt, wie Trump doch noch gewinnt.</description>
+						<category domain="">US-Wahl</category>
+						<pubDate>
+							Mon, 02 Nov 2020 06:35:08 +0100</pubDate>
+						<guid isPermaLink="false">aid_12609128</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12609127/2692616119-cv3_2-w120-q72-p4/screen-shot-2020-11-01-at-11.jpg" />Außenseiter, Geheimfavorit, Umfragenverlierer. Wie man ihn auch nennen mag, Donald Trump ist bei der anstehenden US-Wahl laut aktuellen Umfragen weit von seiner Wiederwahl entfernt. Doch das muss nicht heißen, dass er keine Chance hat. Ein Rechenbeispiel zeigt, wie Trump doch noch gewinnt.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Außenseiter, Geheimfavorit, Umfragenverlierer. Wie man ihn auch nennen mag, Donald Trump ist bei der anstehenden US-Wahl laut aktuellen Umfragen weit von seiner Wiederwahl entfernt. Doch das muss nicht heißen, dass er keine Chance hat. Ein Rechenbeispiel zeigt, wie Trump doch noch gewinnt.]]></media:description>
+						<media:title>Rechenbeispiel zur Wahl - Von wegen chancenlos: Wenn Trump diese Staaten gewinnt, bleibt er Präsident</media:title>
+						<media:player url="https://www.focus.de/politik/ausland/us-wahl/rechenbeispiel-zur-wahl-diese-staaten-muss-trump-gewinnen-so-kommt-er-auf-die-noetigen-270-stimmen_id_12609128.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Ärzteverbände uneinig - Widerstand gegen Anti-Lockdown-Papier wächst: Streeck laufen die Unterstützer davon</title>
+						<link>https://www.focus.de/gesundheit/news/aerzteverbande-uneinig-corona-lockdown-immer-mehr-widerstand-gegen-streecks-umstrittenes-papier_id_12608917.html</link>
+						<description>
+							Das gemeinsame Positionspapier gegen die deutsche Strategie in der Corona-Krise, das namhafte Ärzte und Wissenschaftler am Mittwoch veröffentlicht haben, stößt immer mehr auf Kritik aus den eigenen Reihen. Weitere Ärzte-Verbände distanzierten sich von dem umstrittenen Schreiben.</description>
+						<category domain="">News</category>
+						<pubDate>
+							Mon, 02 Nov 2020 06:25:33 +0100</pubDate>
+						<guid isPermaLink="false">aid_12608917</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12604099/60026192-cv3_2-w120-q72-p4/praesentation1.jpg" />Das gemeinsame Positionspapier gegen die deutsche Strategie in der Corona-Krise, das namhafte Ärzte und Wissenschaftler am Mittwoch veröffentlicht haben, stößt immer mehr auf Kritik aus den eigenen Reihen. Weitere Ärzte-Verbände distanzierten sich von dem umstrittenen Schreiben.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Das gemeinsame Positionspapier gegen die deutsche Strategie in der Corona-Krise, das namhafte Ärzte und Wissenschaftler am Mittwoch veröffentlicht haben, stößt immer mehr auf Kritik aus den eigenen Reihen. Weitere Ärzte-Verbände distanzierten sich von dem umstrittenen Schreiben.]]></media:description>
+						<media:title>Ärzteverbände uneinig - Widerstand gegen Anti-Lockdown-Papier wächst: Streeck laufen die Unterstützer davon</media:title>
+						<media:player url="https://www.focus.de/gesundheit/news/aerzteverbande-uneinig-corona-lockdown-immer-mehr-widerstand-gegen-streecks-umstrittenes-papier_id_12608917.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>Angstschweiß bei den Demokraten - Plötzlich führt Trump im wichtigen &amp;#034;Swing State&amp;#034; Iowa - genau wie 2016</title>
+						<link>https://www.focus.de/politik/ausland/us-wahl/angstschweiss-bei-den-demokraten-trump-mit-7-punkten-vorne-diese-umfrage-sorgt-fuer-angstschweiss-bei-den-demokraten_id_12609054.html</link>
+						<description>
+							Morgen wird in den USA gewählt. Und eine neue Umfrage versetzt die Demokraten um Joe Biden in Angst – denn plötzlich führt Trump in einem entscheidenden &#034;Swing State&#034;. Die Zahlen könnte ein Hinweis darauf sein, dass Trump seiner Wiederwahl näher ist, als die meisten anderen Umfragen vermuten lassen. Denn sie lag schon einmal abseits der Norm – und damit richtig.</description>
+						<category domain="">US-Wahl</category>
+						<pubDate>
+							Mon, 02 Nov 2020 06:22:05 +0100</pubDate>
+						<guid isPermaLink="false">aid_12609054</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/vermischtes/crop12327883/9122615518-cv3_2-w120-q72-p4/compressed-8ffbcee1-d2bc-4ff4-ac8a-53c827513693.jpg" />Morgen wird in den USA gewählt. Und eine neue Umfrage versetzt die Demokraten um Joe Biden in Angst – denn plötzlich führt Trump in einem entscheidenden "Swing State". Die Zahlen könnte ein Hinweis darauf sein, dass Trump seiner Wiederwahl näher ist, als die meisten anderen Umfragen vermuten lassen. Denn sie lag schon einmal abseits der Norm – und damit richtig.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Morgen wird in den USA gewählt. Und eine neue Umfrage versetzt die Demokraten um Joe Biden in Angst – denn plötzlich führt Trump in einem entscheidenden "Swing State". Die Zahlen könnte ein Hinweis darauf sein, dass Trump seiner Wiederwahl näher ist, als die meisten anderen Umfragen vermuten lassen. Denn sie lag schon einmal abseits der Norm – und damit richtig.]]></media:description>
+						<media:title>Angstschweiß bei den Demokraten - Plötzlich führt Trump im wichtigen &#034;Swing State&#034; Iowa - genau wie 2016</media:title>
+						<media:player url="https://www.focus.de/politik/ausland/us-wahl/angstschweiss-bei-den-demokraten-trump-mit-7-punkten-vorne-diese-umfrage-sorgt-fuer-angstschweiss-bei-den-demokraten_id_12609054.html" width="990" height="600" />
+						</item>
+			<item>
+						<title>TV-Kolumne &amp;#034;Anne Will&amp;#034; - Verlängerung des Lockdowns? Merkels wichtigster Mann weicht im TV-Talk aus</title>
+						<link>https://www.focus.de/kultur/kino_tv/focus-fernsehclub/tv-kolumne-verlaengerung-des-lockdowns-merkels-wichtigster-mann-weicht-im-tv-talk-aus_id_12608990.html</link>
+						<description>
+							Gaststätten sind geschlossen, keine Kultur mehr, Kontaktverbote: Ab Montag wird es stiller in Deutschland. Das haben wir den Unvernünftigen in diesem Land zu verdanken. Danke dafür! Jetzt ist Disziplin zwingend gefragt. Bei „Anne Will“ wird über „vier harte Wochen“ diskutiert. Aber bei einem Monat Beschränkungen wird es wohl nicht bleiben.</description>
+						<category domain="">FOCUS-Fernsehclub</category>
+						<pubDate>
+							Mon, 02 Nov 2020 03:50:18 +0100</pubDate>
+						<guid isPermaLink="false">aid_12608990</guid>
+						<dc:creator>FOCUS</dc:creator>
+						
+						<content:encoded>
+		                            <![CDATA[<img src="https://p5.focus.de/img/fotos/crop12609033/9942615549-cv3_2-w120-q72-p4/screen-shot-2020-11-01-at-7.jpg" />Gaststätten sind geschlossen, keine Kultur mehr, Kontaktverbote: Ab Montag wird es stiller in Deutschland. Das haben wir den Unvernünftigen in diesem Land zu verdanken. Danke dafür! Jetzt ist Disziplin zwingend gefragt. Bei „Anne Will“ wird über „vier harte Wochen“ diskutiert. Aber bei einem Monat Beschränkungen wird es wohl nicht bleiben.]]></content:encoded>
+                            <media:category>news</media:category>
+						<media:copyright>(C) FOCUS Online 1996-2020</media:copyright>						
+						<media:description type="html">
+						    <![CDATA[Gaststätten sind geschlossen, keine Kultur mehr, Kontaktverbote: Ab Montag wird es stiller in Deutschland. Das haben wir den Unvernünftigen in diesem Land zu verdanken. Danke dafür! Jetzt ist Disziplin zwingend gefragt. Bei „Anne Will“ wird über „vier harte Wochen“ diskutiert. Aber bei einem Monat Beschränkungen wird es wohl nicht bleiben.]]></media:description>
+						<media:title>TV-Kolumne &#034;Anne Will&#034; - Verlängerung des Lockdowns? Merkels wichtigster Mann weicht im TV-Talk aus</media:title>
+						<media:player url="https://www.focus.de/kultur/kino_tv/focus-fernsehclub/tv-kolumne-verlaengerung-des-lockdowns-merkels-wichtigster-mann-weicht-im-tv-talk-aus_id_12608990.html" width="990" height="600" />
+						</item>
+			</channel>
+</rss>
