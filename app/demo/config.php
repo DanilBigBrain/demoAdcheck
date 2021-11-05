@@ -12,8 +12,8 @@ $billboard2 = false;
 $footerSuperBanner = true; //970x250px
 $footerSuperBanner2 = false;
 
-$superBanner = true; //728x90px
-$superBanner2 = false;
+$superBanner = false; //728x90px
+$superBanner2 = true;
 
 $skyScraper = true; //160x600px
 $skyScraper2 = false;

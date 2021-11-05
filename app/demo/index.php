@@ -243,6 +243,26 @@
                                 <!-- Main 2 ---------------------------->
                                 <main class="cell small-12 medium-7">
 
+                                
+
+                            <video class="video" onended="switchen()" id="videoAd" controls  poster="https://www.sueddeutsche.de/image/sz.1.3198102?v=1541603422&format=webp">
+                            
+                            <source id="source" src="ads/ADVISION_Schwaebisch_Hall_Bausparkasse_25098623.mp4" type="video/mp4">
+                            
+                            
+                            
+                            </source>
+                            
+                            
+                            
+                            </video>
+                            
+                            <p id="head">kaninchen </p>
+                            
+                            <p id="text">Neuen Jäger infizieren sich mit Hasenpest</p>
+                            
+                            <p>Gemeinsam gejagt, gemeinsam im Krankenhaus: Angesteckt haben sich die Männer wohl, als sie den Tieren die Felle abgezogen. Nun befinden sich acht von ihnen auf der Isolierstation</p>
+
 
                                     <?php for ($i = 4; $i <= 5; $i++ ) { ?>
                                         <?php include('assets/article-large.php'); ?>

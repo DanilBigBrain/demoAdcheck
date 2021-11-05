@@ -215,18 +215,20 @@ iframe {
 .ad-wrapper {
     margin: 30px auto;
     position: relative;
+   
 }
 
 .sticky-ad {
     position: -webkit-sticky; /* Safari */  
     position: sticky;
     top: 0;
+    
 }
 
 .sticky-ad-skyScr {
     position: -webkit-sticky; /* Safari */  
     position: sticky;
-    top: 16em;
+    top: 9em;
 }
 
 
